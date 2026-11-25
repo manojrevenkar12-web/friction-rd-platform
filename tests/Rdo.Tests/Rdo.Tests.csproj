@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+    <RootNamespace>Rdo.Tests</RootNamespace>
+    <NoWarn>$(NoWarn);CA1707;CA1515;CA1861</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.11" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Rdo.Core\Rdo.Core.csproj" />
+    <ProjectReference Include="..\..\src\Rdo.Legacy\Rdo.Legacy.csproj" />
+    <ProjectReference Include="..\..\src\Rdo.Api\Rdo.Api.csproj" />
+    <ProjectReference Include="..\..\src\Rdo.SqlServer\Rdo.SqlServer.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+name: packages
+# Restores the NuGet packages the solution uses and publishes them as an artifact, so the
+# solution can be built in sandboxes without access to nuget.org (see AGENTS.md).
+on:
+  workflow_dispatch:
+  push:
+    paths: ["**/*.csproj", ".github/workflows/packages.yml"]
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "8.0.x" }
+      - name: Restore test and SQL Server projects
+        run: |
+          mkdir -p probe && cd probe
+          for p in ../src/Rdo.SqlServer/Rdo.SqlServer.csproj ../tests/Rdo.Tests/Rdo.Tests.csproj; do
+            dotnet restore "$p" --packages ../nuget-packages || true
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: nuget-packages
+          path: nuget-packages
+          retention-days: 7

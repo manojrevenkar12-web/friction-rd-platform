@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+nuget-packages/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+web/node_modules/
+web/dist/
+*.egg-info/
+artifacts/

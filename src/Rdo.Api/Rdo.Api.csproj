@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <RootNamespace>Rdo.Api</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rdo.Core\Rdo.Core.csproj" />
+    <ProjectReference Include="..\Rdo.Legacy\Rdo.Legacy.csproj" />
+    <ProjectReference Include="..\Rdo.SqlServer\Rdo.SqlServer.csproj" Condition="'$(OfflineSandbox)' != 'true'" />
+  </ItemGroup>
+  <PropertyGroup Condition="'$(OfflineSandbox)' != 'true'">
+    <DefineConstants>$(DefineConstants);WITH_SQLSERVER</DefineConstants>
+  </PropertyGroup>
+</Project>
