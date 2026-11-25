@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Rdo.Cli</RootNamespace>
+    <AssemblyName>rdo-core</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rdo.Core\Rdo.Core.csproj" />
+    <ProjectReference Include="..\Rdo.Legacy\Rdo.Legacy.csproj" />
+  </ItemGroup>
+</Project>

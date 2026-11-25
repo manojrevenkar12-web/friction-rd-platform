@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A33BEC16-3DBF-4490-AE24-F1E749A4809F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.Core", "src\Rdo.Core\Rdo.Core.csproj", "{1FD15E67-3DD0-48B2-A15E-ED292483B390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.Legacy", "src\Rdo.Legacy\Rdo.Legacy.csproj", "{3EBA2C64-3601-4AEA-9388-3D372966CFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.Cli", "src\Rdo.Cli\Rdo.Cli.csproj", "{9A44F794-9F8E-41B0-85CB-B8D6EDA77511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.Api", "src\Rdo.Api\Rdo.Api.csproj", "{641D5DEF-A3A3-428A-AB4C-365C4CA1C649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.SqlServer", "src\Rdo.SqlServer\Rdo.SqlServer.csproj", "{195BB671-AFA9-41F1-AEA9-6026B6CEDF88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6D94A84C-599E-47D0-A63E-3F601821BC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdo.Tests", "tests\Rdo.Tests\Rdo.Tests.csproj", "{5B5767D1-5840-4F9B-B0DE-B313C513604B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD15E67-3DD0-48B2-A15E-ED292483B390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD15E67-3DD0-48B2-A15E-ED292483B390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD15E67-3DD0-48B2-A15E-ED292483B390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD15E67-3DD0-48B2-A15E-ED292483B390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBA2C64-3601-4AEA-9388-3D372966CFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBA2C64-3601-4AEA-9388-3D372966CFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBA2C64-3601-4AEA-9388-3D372966CFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBA2C64-3601-4AEA-9388-3D372966CFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A44F794-9F8E-41B0-85CB-B8D6EDA77511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A44F794-9F8E-41B0-85CB-B8D6EDA77511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A44F794-9F8E-41B0-85CB-B8D6EDA77511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A44F794-9F8E-41B0-85CB-B8D6EDA77511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641D5DEF-A3A3-428A-AB4C-365C4CA1C649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641D5DEF-A3A3-428A-AB4C-365C4CA1C649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641D5DEF-A3A3-428A-AB4C-365C4CA1C649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641D5DEF-A3A3-428A-AB4C-365C4CA1C649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{195BB671-AFA9-41F1-AEA9-6026B6CEDF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195BB671-AFA9-41F1-AEA9-6026B6CEDF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195BB671-AFA9-41F1-AEA9-6026B6CEDF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195BB671-AFA9-41F1-AEA9-6026B6CEDF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5767D1-5840-4F9B-B0DE-B313C513604B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5767D1-5840-4F9B-B0DE-B313C513604B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5767D1-5840-4F9B-B0DE-B313C513604B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5767D1-5840-4F9B-B0DE-B313C513604B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FD15E67-3DD0-48B2-A15E-ED292483B390} = {A33BEC16-3DBF-4490-AE24-F1E749A4809F}
+		{3EBA2C64-3601-4AEA-9388-3D372966CFF5} = {A33BEC16-3DBF-4490-AE24-F1E749A4809F}
+		{9A44F794-9F8E-41B0-85CB-B8D6EDA77511} = {A33BEC16-3DBF-4490-AE24-F1E749A4809F}
+		{641D5DEF-A3A3-428A-AB4C-365C4CA1C649} = {A33BEC16-3DBF-4490-AE24-F1E749A4809F}
+		{195BB671-AFA9-41F1-AEA9-6026B6CEDF88} = {A33BEC16-3DBF-4490-AE24-F1E749A4809F}
+		{5B5767D1-5840-4F9B-B0DE-B313C513604B} = {6D94A84C-599E-47D0-A63E-3F601821BC88}
+	EndGlobalSection
+EndGlobal

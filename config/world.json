@@ -1,0 +1,113 @@
+{
+  "_doc": "The simulated friction lab: its master data and the truth behind it. The platform never reads this file.",
+  "benches": {
+    "passengerCar": 5,
+    "commercialVehicle": 2,
+    "nvh": 1
+  },
+  "applications": 36,
+  "fixturesShareApplications": 0.25,
+  "formulations": 140,
+  "formulationStatus": {
+    "releasedForTest": 0.86,
+    "inDevelopment": 0.1,
+    "obsolete": 0.04
+  },
+  "requestsPerWorkingDay": {
+    "passengerCar": 10.5,
+    "commercialVehicle": 3.2,
+    "nvh": 1.35
+  },
+  "workingDays": 250,
+  "requestKinds": {
+    "homologation": 0.25,
+    "development": 0.4,
+    "exploratory": 0.35
+  },
+  "deadlineWeeks": {
+    "homologation": [
+      3,
+      6
+    ],
+    "development": [
+      4,
+      9
+    ]
+  },
+  "germanShare": 0.6,
+  "ambiguity": {
+    "missingAxle": 0.07,
+    "twoFormulations": 0.03,
+    "customerVariant": 0.35,
+    "statesSamples": 0.6
+  },
+  "faults": {
+    "shareOfRuns": 0.09,
+    "mix": {
+      "thermocoupleLoose": 0.25,
+      "torqueDrift": 0.2,
+      "wrongProcedureLoaded": 0.15,
+      "coolingAirFailure": 0.2,
+      "sampleCracked": 0.2
+    }
+  },
+  "physics": {
+    "muNoise": 0.012,
+    "greenRise": 0.06,
+    "fadeOnsetC": [
+      380,
+      520
+    ],
+    "fadeDepth": [
+      0.08,
+      0.32
+    ],
+    "materialShift": 0.02,
+    "speedSensitivity": [
+      0.0,
+      0.0009
+    ]
+  },
+  "people": {
+    "coordinator": {
+      "delayWorkingDays": [
+        1,
+        3
+      ],
+      "minutesPerRequest": 9,
+      "fieldErrorRate": 0.025,
+      "missesCustomerVariant": 0.3,
+      "asksWhenUnclear": 0.6
+    },
+    "requesterAnswerDays": [
+      0.3,
+      2.0
+    ],
+    "postRunReview": {
+      "delayDays": [
+        0.5,
+        2.0
+      ],
+      "detects": {
+        "thermocoupleLoose": 0.3,
+        "torqueDrift": 0.25,
+        "wrongProcedureLoaded": 0.6,
+        "coolingAirFailure": 0.7,
+        "sampleCracked": 0.9
+      }
+    },
+    "faultFixHours": 4
+  },
+  "llm": {
+    "pickNeighbourFormulation": 0.03,
+    "pickWrongVehicle": 0.02,
+    "guessAxleWhenMissing": 0.7,
+    "missCustomerVariant": 0.25,
+    "wrongWeekToDate": 0.03,
+    "inventEvidence": 0.02,
+    "wrongSamples": 0.02,
+    "asksWhenTwoCodes": 0.5,
+    "inputTokens": 2400,
+    "outputTokens": 260
+  }
+}

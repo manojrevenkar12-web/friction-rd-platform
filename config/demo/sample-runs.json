@@ -1,0 +1,6728 @@
+{
+  "sampleCracked": {
+    "fault": "sampleCracked",
+    "onset": 110,
+    "order": {
+      "formulation": "FM-8208",
+      "application": "A07",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.0,
+        "coolingSeconds": 117.4,
+        "mu": 0.41069
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.4,
+        "coolingSeconds": 124.2,
+        "mu": 0.39222
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.5,
+        "coolingSeconds": 111.9,
+        "mu": 0.41568
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 106.9,
+        "coolingSeconds": 95.7,
+        "mu": 0.42778
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.0,
+        "coolingSeconds": 97.8,
+        "mu": 0.39165
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 105.4,
+        "coolingSeconds": 91.6,
+        "mu": 0.41313
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 104.8,
+        "mu": 0.41963
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.8,
+        "coolingSeconds": 113.3,
+        "mu": 0.41331
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 112.1,
+        "mu": 0.42643
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 93.8,
+        "coolingSeconds": 92.9,
+        "mu": 0.43438
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 106.7,
+        "mu": 0.43361
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.2,
+        "coolingSeconds": 101.6,
+        "mu": 0.40169
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.7,
+        "coolingSeconds": 107.7,
+        "mu": 0.41752
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.8,
+        "coolingSeconds": 119.0,
+        "mu": 0.42136
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.5,
+        "coolingSeconds": 109.7,
+        "mu": 0.44179
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 105.0,
+        "mu": 0.43663
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.5,
+        "coolingSeconds": 117.3,
+        "mu": 0.43928
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.6,
+        "coolingSeconds": 107.5,
+        "mu": 0.42752
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 114.1,
+        "mu": 0.42202
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.3,
+        "coolingSeconds": 107.9,
+        "mu": 0.43016
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 108.4,
+        "coolingSeconds": 101.2,
+        "mu": 0.43099
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.2,
+        "coolingSeconds": 105.1,
+        "mu": 0.43367
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.8,
+        "coolingSeconds": 105.0,
+        "mu": 0.43608
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.1,
+        "coolingSeconds": 109.9,
+        "mu": 0.41974
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.4,
+        "coolingSeconds": 111.6,
+        "mu": 0.43312
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 110.9,
+        "mu": 0.43747
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.1,
+        "coolingSeconds": 111.4,
+        "mu": 0.40863
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.7,
+        "coolingSeconds": 115.2,
+        "mu": 0.44974
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.1,
+        "coolingSeconds": 90.0,
+        "mu": 0.45074
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.2,
+        "coolingSeconds": 90.0,
+        "mu": 0.4394
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.6,
+        "coolingSeconds": 114.2,
+        "mu": 0.44797
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.5,
+        "coolingSeconds": 102.5,
+        "mu": 0.42965
+      },
+      {
+        "index": 32,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.0,
+        "coolingSeconds": 120.5,
+        "mu": 0.43928
+      },
+      {
+        "index": 33,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.7,
+        "coolingSeconds": 113.2,
+        "mu": 0.42311
+      },
+      {
+        "index": 34,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 100.0,
+        "mu": 0.44712
+      },
+      {
+        "index": 35,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.0,
+        "coolingSeconds": 112.4,
+        "mu": 0.45538
+      },
+      {
+        "index": 36,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.0,
+        "coolingSeconds": 107.0,
+        "mu": 0.43999
+      },
+      {
+        "index": 37,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.5,
+        "coolingSeconds": 114.2,
+        "mu": 0.43168
+      },
+      {
+        "index": 38,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 100.5,
+        "coolingSeconds": 49.3,
+        "mu": 0.46481
+      },
+      {
+        "index": 39,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 102.8,
+        "coolingSeconds": 46.9,
+        "mu": 0.46872
+      },
+      {
+        "index": 40,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 100.2,
+        "coolingSeconds": 46.3,
+        "mu": 0.48016
+      },
+      {
+        "index": 41,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 99.0,
+        "coolingSeconds": 51.4,
+        "mu": 0.46079
+      },
+      {
+        "index": 42,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.6,
+        "coolingSeconds": 46.4,
+        "mu": 0.47732
+      },
+      {
+        "index": 43,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 102.1,
+        "coolingSeconds": 48.3,
+        "mu": 0.47079
+      },
+      {
+        "index": 44,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.2,
+        "coolingSeconds": 104.7,
+        "mu": 0.45572
+      },
+      {
+        "index": 45,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.9,
+        "coolingSeconds": 104.1,
+        "mu": 0.44286
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.0,
+        "coolingSeconds": 101.8,
+        "mu": 0.45323
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.9,
+        "coolingSeconds": 112.1,
+        "mu": 0.42956
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.7,
+        "coolingSeconds": 120.9,
+        "mu": 0.41663
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.2,
+        "coolingSeconds": 112.0,
+        "mu": 0.4373
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 105.0,
+        "coolingSeconds": 188.0,
+        "mu": 0.41201
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 101.3,
+        "coolingSeconds": 165.5,
+        "mu": 0.41812
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 96.0,
+        "coolingSeconds": 200.8,
+        "mu": 0.41458
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 104.6,
+        "coolingSeconds": 196.0,
+        "mu": 0.42354
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 100.1,
+        "coolingSeconds": 181.5,
+        "mu": 0.41443
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 99.1,
+        "coolingSeconds": 186.2,
+        "mu": 0.42926
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 99.7,
+        "coolingSeconds": 328.6,
+        "mu": 0.38421
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.7,
+        "coolingSeconds": 290.2,
+        "mu": 0.39071
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 97.2,
+        "coolingSeconds": 358.4,
+        "mu": 0.39666
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 102.5,
+        "coolingSeconds": 316.6,
+        "mu": 0.39296
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 346.2,
+        "mu": 0.39101
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 99.3,
+        "coolingSeconds": 334.4,
+        "mu": 0.39736
+      },
+      {
+        "index": 62,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.6,
+        "coolingSeconds": 98.9,
+        "mu": 0.46158
+      },
+      {
+        "index": 63,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 110.4,
+        "coolingSeconds": 103.5,
+        "mu": 0.45319
+      },
+      {
+        "index": 64,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.4,
+        "coolingSeconds": 114.5,
+        "mu": 0.42911
+      },
+      {
+        "index": 65,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.4,
+        "coolingSeconds": 103.1,
+        "mu": 0.44794
+      },
+      {
+        "index": 66,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.7,
+        "coolingSeconds": 117.0,
+        "mu": 0.43157
+      },
+      {
+        "index": 67,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 97.7,
+        "mu": 0.42227
+      },
+      {
+        "index": 68,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 100.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.38638
+      },
+      {
+        "index": 69,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 135.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.40754
+      },
+      {
+        "index": 70,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 160.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.41926
+      },
+      {
+        "index": 71,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 195.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.42008
+      },
+      {
+        "index": 72,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 228.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.41628
+      },
+      {
+        "index": 73,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 261.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.40249
+      },
+      {
+        "index": 74,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 290.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.41212
+      },
+      {
+        "index": 75,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 325.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.42018
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 355.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.40511
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 391.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.43752
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 418.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.4234
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 452.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.38583
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 485.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.37094
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 512.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.37831
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 544.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.36184
+      },
+      {
+        "index": 83,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.6,
+        "coolingSeconds": 102.4,
+        "mu": 0.42801
+      },
+      {
+        "index": 84,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.2,
+        "coolingSeconds": 93.0,
+        "mu": 0.40844
+      },
+      {
+        "index": 85,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.6,
+        "coolingSeconds": 102.2,
+        "mu": 0.44738
+      },
+      {
+        "index": 86,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.0,
+        "coolingSeconds": 120.4,
+        "mu": 0.42361
+      },
+      {
+        "index": 87,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.5,
+        "coolingSeconds": 97.0,
+        "mu": 0.45275
+      },
+      {
+        "index": 88,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.7,
+        "coolingSeconds": 115.0,
+        "mu": 0.44934
+      },
+      {
+        "index": 89,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.8,
+        "coolingSeconds": 103.3,
+        "mu": 0.43536
+      },
+      {
+        "index": 90,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 108.4,
+        "mu": 0.42226
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.7,
+        "coolingSeconds": 115.8,
+        "mu": 0.43385
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.4,
+        "coolingSeconds": 99.4,
+        "mu": 0.43291
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.6,
+        "coolingSeconds": 102.1,
+        "mu": 0.43984
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.5,
+        "coolingSeconds": 85.8,
+        "mu": 0.4364
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.5,
+        "coolingSeconds": 98.2,
+        "mu": 0.43895
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.6,
+        "coolingSeconds": 130.1,
+        "mu": 0.43079
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.3,
+        "coolingSeconds": 101.2,
+        "mu": 0.45465
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.6,
+        "coolingSeconds": 107.1,
+        "mu": 0.44036
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.0,
+        "coolingSeconds": 110.7,
+        "mu": 0.42281
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.4,
+        "coolingSeconds": 109.6,
+        "mu": 0.42326
+      },
+      {
+        "index": 101,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.1,
+        "coolingSeconds": 108.4,
+        "mu": 0.4336
+      },
+      {
+        "index": 102,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.9,
+        "coolingSeconds": 111.8,
+        "mu": 0.44837
+      },
+      {
+        "index": 103,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 111.9,
+        "mu": 0.42465
+      },
+      {
+        "index": 104,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.1,
+        "coolingSeconds": 110.6,
+        "mu": 0.42745
+      },
+      {
+        "index": 105,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.4,
+        "coolingSeconds": 102.7,
+        "mu": 0.44151
+      },
+      {
+        "index": 106,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.6,
+        "coolingSeconds": 108.6,
+        "mu": 0.43258
+      },
+      {
+        "index": 107,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 99.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.43361
+      },
+      {
+        "index": 108,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 135.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.4377
+      },
+      {
+        "index": 109,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 166.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.42293
+      },
+      {
+        "index": 110,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 195.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.23353
+      },
+      {
+        "index": 111,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 225.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.29829
+      },
+      {
+        "index": 112,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 257.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.29022
+      },
+      {
+        "index": 113,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 291.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.31634
+      },
+      {
+        "index": 114,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 325.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.22817
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 357.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.25325
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 390.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.21668
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 421.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.26421
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 452.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.24236
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 488.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.24356
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 513.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.28936
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 546.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.22964
+      }
+    ]
+  },
+  "healthy": {
+    "fault": null,
+    "onset": null,
+    "order": {
+      "formulation": "FM-4704",
+      "application": "A20",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.1,
+        "coolingSeconds": 104.5,
+        "mu": 0.39231
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 100.7,
+        "mu": 0.39968
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.9,
+        "coolingSeconds": 107.5,
+        "mu": 0.38338
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.4,
+        "coolingSeconds": 91.6,
+        "mu": 0.40898
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 108.0,
+        "mu": 0.39866
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.2,
+        "coolingSeconds": 102.0,
+        "mu": 0.39683
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.9,
+        "coolingSeconds": 103.5,
+        "mu": 0.38918
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.9,
+        "coolingSeconds": 95.5,
+        "mu": 0.41014
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 110.6,
+        "mu": 0.41125
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.1,
+        "coolingSeconds": 102.2,
+        "mu": 0.39658
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.0,
+        "coolingSeconds": 96.6,
+        "mu": 0.41629
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.6,
+        "coolingSeconds": 101.3,
+        "mu": 0.41749
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.5,
+        "coolingSeconds": 94.2,
+        "mu": 0.40237
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.1,
+        "coolingSeconds": 96.9,
+        "mu": 0.42057
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.1,
+        "coolingSeconds": 99.9,
+        "mu": 0.39931
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.0,
+        "coolingSeconds": 104.8,
+        "mu": 0.42647
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 107.4,
+        "mu": 0.45539
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.3,
+        "coolingSeconds": 88.6,
+        "mu": 0.42538
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.9,
+        "coolingSeconds": 105.4,
+        "mu": 0.42142
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.0,
+        "coolingSeconds": 115.4,
+        "mu": 0.42821
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.7,
+        "coolingSeconds": 100.3,
+        "mu": 0.44687
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.6,
+        "coolingSeconds": 123.8,
+        "mu": 0.41964
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.3,
+        "coolingSeconds": 103.9,
+        "mu": 0.42942
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.2,
+        "coolingSeconds": 110.7,
+        "mu": 0.42593
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.2,
+        "coolingSeconds": 109.0,
+        "mu": 0.45429
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.2,
+        "coolingSeconds": 117.9,
+        "mu": 0.43864
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 106.1,
+        "coolingSeconds": 98.9,
+        "mu": 0.44666
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.6,
+        "coolingSeconds": 114.4,
+        "mu": 0.45415
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.6,
+        "coolingSeconds": 109.0,
+        "mu": 0.45606
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.6,
+        "coolingSeconds": 115.5,
+        "mu": 0.45132
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.3,
+        "coolingSeconds": 98.0,
+        "mu": 0.47826
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 106.5,
+        "coolingSeconds": 101.1,
+        "mu": 0.47316
+      },
+      {
+        "index": 32,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.9,
+        "coolingSeconds": 127.3,
+        "mu": 0.45638
+      },
+      {
+        "index": 33,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.5,
+        "coolingSeconds": 95.1,
+        "mu": 0.46461
+      },
+      {
+        "index": 34,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.8,
+        "coolingSeconds": 109.6,
+        "mu": 0.46933
+      },
+      {
+        "index": 35,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.1,
+        "coolingSeconds": 113.2,
+        "mu": 0.45287
+      },
+      {
+        "index": 36,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.1,
+        "coolingSeconds": 106.1,
+        "mu": 0.46019
+      },
+      {
+        "index": 37,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.1,
+        "coolingSeconds": 107.1,
+        "mu": 0.45955
+      },
+      {
+        "index": 38,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 97.2,
+        "coolingSeconds": 58.8,
+        "mu": 0.47827
+      },
+      {
+        "index": 39,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 58.5,
+        "mu": 0.4616
+      },
+      {
+        "index": 40,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.0,
+        "coolingSeconds": 51.5,
+        "mu": 0.46586
+      },
+      {
+        "index": 41,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 99.2,
+        "coolingSeconds": 50.1,
+        "mu": 0.48609
+      },
+      {
+        "index": 42,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 98.1,
+        "coolingSeconds": 50.3,
+        "mu": 0.49026
+      },
+      {
+        "index": 43,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 99.5,
+        "coolingSeconds": 48.6,
+        "mu": 0.47196
+      },
+      {
+        "index": 44,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.5,
+        "coolingSeconds": 95.7,
+        "mu": 0.47657
+      },
+      {
+        "index": 45,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.5,
+        "coolingSeconds": 108.3,
+        "mu": 0.45014
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.3,
+        "coolingSeconds": 107.5,
+        "mu": 0.4624
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.8,
+        "coolingSeconds": 112.6,
+        "mu": 0.4568
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.7,
+        "coolingSeconds": 109.1,
+        "mu": 0.42878
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.4,
+        "coolingSeconds": 102.5,
+        "mu": 0.47256
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 107.1,
+        "coolingSeconds": 228.0,
+        "mu": 0.41072
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 94.5,
+        "coolingSeconds": 194.2,
+        "mu": 0.42288
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 104.5,
+        "coolingSeconds": 194.4,
+        "mu": 0.41828
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 99.4,
+        "coolingSeconds": 186.5,
+        "mu": 0.41264
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 101.1,
+        "coolingSeconds": 212.3,
+        "mu": 0.44218
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 101.0,
+        "coolingSeconds": 211.0,
+        "mu": 0.44441
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.7,
+        "coolingSeconds": 351.3,
+        "mu": 0.42376
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 97.4,
+        "coolingSeconds": 296.1,
+        "mu": 0.40473
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 92.6,
+        "coolingSeconds": 317.9,
+        "mu": 0.40836
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.0,
+        "coolingSeconds": 327.7,
+        "mu": 0.421
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 102.5,
+        "coolingSeconds": 320.4,
+        "mu": 0.39081
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.2,
+        "coolingSeconds": 352.6,
+        "mu": 0.43414
+      },
+      {
+        "index": 62,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.6,
+        "coolingSeconds": 110.6,
+        "mu": 0.4449
+      },
+      {
+        "index": 63,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.6,
+        "coolingSeconds": 118.2,
+        "mu": 0.45121
+      },
+      {
+        "index": 64,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.7,
+        "coolingSeconds": 104.3,
+        "mu": 0.45263
+      },
+      {
+        "index": 65,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.7,
+        "coolingSeconds": 96.1,
+        "mu": 0.42802
+      },
+      {
+        "index": 66,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.9,
+        "coolingSeconds": 107.8,
+        "mu": 0.45751
+      },
+      {
+        "index": 67,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 93.1,
+        "coolingSeconds": 103.1,
+        "mu": 0.45317
+      },
+      {
+        "index": 68,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 99.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.45557
+      },
+      {
+        "index": 69,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 136.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.45356
+      },
+      {
+        "index": 70,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 164.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.44191
+      },
+      {
+        "index": 71,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 198.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.42275
+      },
+      {
+        "index": 72,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 228.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.41398
+      },
+      {
+        "index": 73,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 261.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.43263
+      },
+      {
+        "index": 74,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 294.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.44652
+      },
+      {
+        "index": 75,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 321.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.44036
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 355.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.42746
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 388.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.42527
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 417.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.45224
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 452.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.43039
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 482.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.43739
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 520.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.44369
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 547.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.42569
+      },
+      {
+        "index": 83,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.7,
+        "coolingSeconds": 99.3,
+        "mu": 0.46975
+      },
+      {
+        "index": 84,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.3,
+        "coolingSeconds": 103.4,
+        "mu": 0.4568
+      },
+      {
+        "index": 85,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.5,
+        "coolingSeconds": 99.4,
+        "mu": 0.45794
+      },
+      {
+        "index": 86,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.3,
+        "coolingSeconds": 98.1,
+        "mu": 0.46054
+      },
+      {
+        "index": 87,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.6,
+        "coolingSeconds": 114.3,
+        "mu": 0.47088
+      },
+      {
+        "index": 88,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.4,
+        "coolingSeconds": 100.0,
+        "mu": 0.45887
+      },
+      {
+        "index": 89,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.4,
+        "coolingSeconds": 93.8,
+        "mu": 0.46508
+      },
+      {
+        "index": 90,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 97.8,
+        "mu": 0.46879
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.4,
+        "coolingSeconds": 109.4,
+        "mu": 0.45599
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.9,
+        "coolingSeconds": 107.8,
+        "mu": 0.46717
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.4,
+        "coolingSeconds": 100.3,
+        "mu": 0.448
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.1,
+        "coolingSeconds": 126.6,
+        "mu": 0.45295
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 100.4,
+        "mu": 0.46204
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.0,
+        "coolingSeconds": 104.3,
+        "mu": 0.45211
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.0,
+        "coolingSeconds": 102.3,
+        "mu": 0.48887
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.5,
+        "coolingSeconds": 101.6,
+        "mu": 0.47577
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.0,
+        "coolingSeconds": 117.2,
+        "mu": 0.46934
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.0,
+        "coolingSeconds": 105.1,
+        "mu": 0.45998
+      },
+      {
+        "index": 101,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.9,
+        "coolingSeconds": 104.4,
+        "mu": 0.45576
+      },
+      {
+        "index": 102,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.0,
+        "coolingSeconds": 115.9,
+        "mu": 0.4418
+      },
+      {
+        "index": 103,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.0,
+        "coolingSeconds": 106.4,
+        "mu": 0.45204
+      },
+      {
+        "index": 104,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.2,
+        "coolingSeconds": 109.9,
+        "mu": 0.47601
+      },
+      {
+        "index": 105,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.4,
+        "coolingSeconds": 110.7,
+        "mu": 0.46306
+      },
+      {
+        "index": 106,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 107.1,
+        "mu": 0.46883
+      },
+      {
+        "index": 107,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 103.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.44326
+      },
+      {
+        "index": 108,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 127.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.42978
+      },
+      {
+        "index": 109,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 163.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.44047
+      },
+      {
+        "index": 110,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 198.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.45099
+      },
+      {
+        "index": 111,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 227.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.45499
+      },
+      {
+        "index": 112,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 259.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.42061
+      },
+      {
+        "index": 113,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 294.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.41938
+      },
+      {
+        "index": 114,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 329.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.4468
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 355.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.43896
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 385.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.44089
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 422.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.43003
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 453.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.43555
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 487.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.45137
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 512.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.41868
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 549.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.43756
+      }
+    ]
+  },
+  "thermocoupleLoose": {
+    "fault": "thermocoupleLoose",
+    "onset": 27,
+    "order": {
+      "formulation": "FM-2142",
+      "application": "A02",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.7,
+        "coolingSeconds": 115.4,
+        "mu": 0.40184
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.9,
+        "coolingSeconds": 87.2,
+        "mu": 0.43182
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 101.8,
+        "mu": 0.43167
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.6,
+        "coolingSeconds": 102.6,
+        "mu": 0.4363
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.6,
+        "coolingSeconds": 109.4,
+        "mu": 0.42305
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.8,
+        "coolingSeconds": 114.0,
+        "mu": 0.42288
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.0,
+        "coolingSeconds": 111.9,
+        "mu": 0.44744
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.5,
+        "coolingSeconds": 97.6,
+        "mu": 0.43019
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.4,
+        "coolingSeconds": 112.2,
+        "mu": 0.44288
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.7,
+        "coolingSeconds": 101.5,
+        "mu": 0.44694
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.4,
+        "coolingSeconds": 101.2,
+        "mu": 0.45762
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 106.4,
+        "coolingSeconds": 109.1,
+        "mu": 0.44117
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 93.2,
+        "coolingSeconds": 108.3,
+        "mu": 0.44396
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.6,
+        "coolingSeconds": 105.2,
+        "mu": 0.43966
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.0,
+        "coolingSeconds": 123.8,
+        "mu": 0.45199
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.0,
+        "coolingSeconds": 104.9,
+        "mu": 0.46458
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.9,
+        "coolingSeconds": 103.8,
+        "mu": 0.44668
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.8,
+        "coolingSeconds": 97.5,
+        "mu": 0.45461
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.9,
+        "coolingSeconds": 103.1,
+        "mu": 0.45709
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.4,
+        "coolingSeconds": 107.5,
+        "mu": 0.44699
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.0,
+        "coolingSeconds": 106.9,
+        "mu": 0.44534
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 114.9,
+        "mu": 0.48437
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.3,
+        "coolingSeconds": 111.7,
+        "mu": 0.45061
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.4,
+        "coolingSeconds": 111.6,
+        "mu": 0.47464
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.1,
+        "coolingSeconds": 104.1,
+        "mu": 0.45069
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.7,
+        "coolingSeconds": 116.7,
+        "mu": 0.46698
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.2,
+        "coolingSeconds": 122.2,
+        "mu": 0.45749
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.1,
+        "coolingSeconds": 38.1,
+        "mu": 0.48652
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.0,
+        "coolingSeconds": 34.2,
+        "mu": 0.49011
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.8,
+        "coolingSeconds": 38.8,
+        "mu": 0.4994
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.5,
+        "coolingSeconds": 38.5,
+        "mu": 0.49407
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.2,
+        "coolingSeconds": 39.4,
+        "mu": 0.50702
+      },
+      {
+        "index": 32,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.7,
+        "coolingSeconds": 40.3,
+        "mu": 0.49392
+      },
+      {
+        "index": 33,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.2,
+        "coolingSeconds": 40.3,
+        "mu": 0.4792
+      },
+      {
+        "index": 34,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.2,
+        "coolingSeconds": 35.7,
+        "mu": 0.48549
+      },
+      {
+        "index": 35,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.0,
+        "coolingSeconds": 35.1,
+        "mu": 0.48026
+      },
+      {
+        "index": 36,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.9,
+        "coolingSeconds": 36.6,
+        "mu": 0.5063
+      },
+      {
+        "index": 37,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.2,
+        "coolingSeconds": 36.4,
+        "mu": 0.47748
+      },
+      {
+        "index": 38,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 103.7,
+        "coolingSeconds": 16.6,
+        "mu": 0.51083
+      },
+      {
+        "index": 39,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 95.5,
+        "coolingSeconds": 17.0,
+        "mu": 0.49857
+      },
+      {
+        "index": 40,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.5,
+        "coolingSeconds": 17.1,
+        "mu": 0.49389
+      },
+      {
+        "index": 41,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 17.1,
+        "mu": 0.48918
+      },
+      {
+        "index": 42,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 105.4,
+        "coolingSeconds": 15.5,
+        "mu": 0.4924
+      },
+      {
+        "index": 43,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 95.7,
+        "coolingSeconds": 17.5,
+        "mu": 0.52802
+      },
+      {
+        "index": 44,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.8,
+        "coolingSeconds": 39.0,
+        "mu": 0.46303
+      },
+      {
+        "index": 45,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.9,
+        "coolingSeconds": 34.8,
+        "mu": 0.50929
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.9,
+        "coolingSeconds": 38.5,
+        "mu": 0.49797
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.9,
+        "coolingSeconds": 37.9,
+        "mu": 0.46914
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.0,
+        "coolingSeconds": 37.9,
+        "mu": 0.47122
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.5,
+        "coolingSeconds": 33.9,
+        "mu": 0.489
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 99.1,
+        "coolingSeconds": 60.4,
+        "mu": 0.46739
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 97.7,
+        "coolingSeconds": 63.5,
+        "mu": 0.47171
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 100.9,
+        "coolingSeconds": 69.6,
+        "mu": 0.46829
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 101.7,
+        "coolingSeconds": 64.0,
+        "mu": 0.46356
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 97.6,
+        "coolingSeconds": 70.3,
+        "mu": 0.48438
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 104.8,
+        "coolingSeconds": 68.5,
+        "mu": 0.44075
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 95.8,
+        "coolingSeconds": 124.2,
+        "mu": 0.47522
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 96.0,
+        "coolingSeconds": 110.4,
+        "mu": 0.44567
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 99.5,
+        "coolingSeconds": 117.4,
+        "mu": 0.4562
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 97.0,
+        "coolingSeconds": 117.4,
+        "mu": 0.45992
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 105.2,
+        "coolingSeconds": 108.9,
+        "mu": 0.4457
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.8,
+        "coolingSeconds": 112.9,
+        "mu": 0.46863
+      },
+      {
+        "index": 62,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.1,
+        "coolingSeconds": 32.9,
+        "mu": 0.47049
+      },
+      {
+        "index": 63,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.8,
+        "coolingSeconds": 39.8,
+        "mu": 0.47521
+      },
+      {
+        "index": 64,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.4,
+        "coolingSeconds": 38.0,
+        "mu": 0.47233
+      },
+      {
+        "index": 65,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.6,
+        "coolingSeconds": 34.7,
+        "mu": 0.48253
+      },
+      {
+        "index": 66,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.2,
+        "coolingSeconds": 33.6,
+        "mu": 0.48528
+      },
+      {
+        "index": 67,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.3,
+        "coolingSeconds": 37.4,
+        "mu": 0.4938
+      },
+      {
+        "index": 68,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 99.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.47335
+      },
+      {
+        "index": 69,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 127.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.4693
+      },
+      {
+        "index": 70,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 163.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.48054
+      },
+      {
+        "index": 71,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 200.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.47114
+      },
+      {
+        "index": 72,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 229.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.45004
+      },
+      {
+        "index": 73,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 255.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.47255
+      },
+      {
+        "index": 74,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 292.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.47505
+      },
+      {
+        "index": 75,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 326.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.49407
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 357.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.45264
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 390.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.46453
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 423.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.46528
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 451.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.4889
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 482.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.47028
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 511.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.46504
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 547.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.42459
+      },
+      {
+        "index": 83,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 36.3,
+        "mu": 0.47969
+      },
+      {
+        "index": 84,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.4,
+        "coolingSeconds": 33.7,
+        "mu": 0.50294
+      },
+      {
+        "index": 85,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.7,
+        "coolingSeconds": 30.2,
+        "mu": 0.47968
+      },
+      {
+        "index": 86,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.5,
+        "coolingSeconds": 39.1,
+        "mu": 0.51052
+      },
+      {
+        "index": 87,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.0,
+        "coolingSeconds": 38.5,
+        "mu": 0.47766
+      },
+      {
+        "index": 88,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.3,
+        "coolingSeconds": 31.4,
+        "mu": 0.48174
+      },
+      {
+        "index": 89,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.3,
+        "coolingSeconds": 39.8,
+        "mu": 0.4789
+      },
+      {
+        "index": 90,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.5,
+        "coolingSeconds": 37.9,
+        "mu": 0.48987
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 92.7,
+        "coolingSeconds": 36.2,
+        "mu": 0.47872
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.5,
+        "coolingSeconds": 43.3,
+        "mu": 0.49974
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.7,
+        "coolingSeconds": 36.0,
+        "mu": 0.48123
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.3,
+        "coolingSeconds": 36.6,
+        "mu": 0.51552
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 33.8,
+        "mu": 0.4787
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.0,
+        "coolingSeconds": 40.9,
+        "mu": 0.48834
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 38.0,
+        "mu": 0.46648
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.2,
+        "coolingSeconds": 36.8,
+        "mu": 0.49813
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.8,
+        "coolingSeconds": 33.4,
+        "mu": 0.48695
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 36.9,
+        "mu": 0.47351
+      },
+      {
+        "index": 101,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.6,
+        "coolingSeconds": 35.8,
+        "mu": 0.48129
+      },
+      {
+        "index": 102,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.2,
+        "coolingSeconds": 38.0,
+        "mu": 0.46973
+      },
+      {
+        "index": 103,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 37.7,
+        "mu": 0.48434
+      },
+      {
+        "index": 104,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.6,
+        "coolingSeconds": 33.8,
+        "mu": 0.46461
+      },
+      {
+        "index": 105,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.8,
+        "coolingSeconds": 42.4,
+        "mu": 0.46944
+      },
+      {
+        "index": 106,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.4,
+        "coolingSeconds": 42.1,
+        "mu": 0.49777
+      },
+      {
+        "index": 107,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 101.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.47221
+      },
+      {
+        "index": 108,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 132.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.46095
+      },
+      {
+        "index": 109,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 161.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.45299
+      },
+      {
+        "index": 110,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 193.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.45735
+      },
+      {
+        "index": 111,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 227.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.46631
+      },
+      {
+        "index": 112,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 259.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.45639
+      },
+      {
+        "index": 113,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 287.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.462
+      },
+      {
+        "index": 114,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 328.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.46406
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 358.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.47277
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 391.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.46003
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 419.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.48229
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 451.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.45928
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 487.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.47457
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 511.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.45207
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 555.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.42203
+      }
+    ]
+  },
+  "torqueDrift": {
+    "fault": "torqueDrift",
+    "onset": 97,
+    "order": {
+      "formulation": "FM-3951",
+      "application": "A16",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.9,
+        "coolingSeconds": 96.7,
+        "mu": 0.46492
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.2,
+        "coolingSeconds": 100.4,
+        "mu": 0.44076
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.4,
+        "coolingSeconds": 91.0,
+        "mu": 0.45979
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.1,
+        "coolingSeconds": 91.0,
+        "mu": 0.44771
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.1,
+        "coolingSeconds": 113.6,
+        "mu": 0.44701
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 93.6,
+        "mu": 0.4592
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.8,
+        "coolingSeconds": 108.5,
+        "mu": 0.45837
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.0,
+        "coolingSeconds": 109.2,
+        "mu": 0.46655
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.4,
+        "coolingSeconds": 107.9,
+        "mu": 0.45453
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 120.1,
+        "mu": 0.45259
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.6,
+        "coolingSeconds": 113.1,
+        "mu": 0.45538
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.3,
+        "coolingSeconds": 106.3,
+        "mu": 0.47007
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.7,
+        "coolingSeconds": 115.2,
+        "mu": 0.47221
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 109.2,
+        "mu": 0.45408
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 107.3,
+        "mu": 0.47201
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.3,
+        "coolingSeconds": 98.3,
+        "mu": 0.46676
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.6,
+        "coolingSeconds": 117.7,
+        "mu": 0.4795
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 108.1,
+        "coolingSeconds": 96.5,
+        "mu": 0.46991
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.9,
+        "coolingSeconds": 117.3,
+        "mu": 0.46143
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.0,
+        "coolingSeconds": 109.7,
+        "mu": 0.44614
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.0,
+        "coolingSeconds": 114.7,
+        "mu": 0.46894
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.4,
+        "coolingSeconds": 103.4,
+        "mu": 0.48998
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.6,
+        "coolingSeconds": 108.9,
+        "mu": 0.47925
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 110.0,
+        "mu": 0.49028
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.4,
+        "coolingSeconds": 107.8,
+        "mu": 0.46261
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.4,
+        "coolingSeconds": 97.8,
+        "mu": 0.49516
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.9,
+        "coolingSeconds": 110.6,
+        "mu": 0.47516
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.1,
+        "coolingSeconds": 108.1,
+        "mu": 0.46321
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 101.3,
+        "mu": 0.48027
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.7,
+        "coolingSeconds": 108.4,
+        "mu": 0.47368
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.3,
+        "coolingSeconds": 93.6,
+        "mu": 0.46712
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.3,
+        "coolingSeconds": 109.4,
+        "mu": 0.48274
+      },
+      {
+        "index": 32,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.6,
+        "coolingSeconds": 104.5,
+        "mu": 0.47082
+      },
+      {
+        "index": 33,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.7,
+        "coolingSeconds": 97.9,
+        "mu": 0.50281
+      },
+      {
+        "index": 34,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.1,
+        "coolingSeconds": 82.4,
+        "mu": 0.47675
+      },
+      {
+        "index": 35,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.0,
+        "coolingSeconds": 106.5,
+        "mu": 0.4682
+      },
+      {
+        "index": 36,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.7,
+        "coolingSeconds": 102.8,
+        "mu": 0.45482
+      },
+      {
+        "index": 37,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.7,
+        "coolingSeconds": 93.6,
+        "mu": 0.46073
+      },
+      {
+        "index": 38,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 95.3,
+        "coolingSeconds": 44.4,
+        "mu": 0.45448
+      },
+      {
+        "index": 39,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 96.9,
+        "coolingSeconds": 49.0,
+        "mu": 0.47264
+      },
+      {
+        "index": 40,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.8,
+        "coolingSeconds": 46.0,
+        "mu": 0.47648
+      },
+      {
+        "index": 41,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 101.0,
+        "coolingSeconds": 52.7,
+        "mu": 0.49458
+      },
+      {
+        "index": 42,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 98.6,
+        "coolingSeconds": 53.0,
+        "mu": 0.47315
+      },
+      {
+        "index": 43,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 99.8,
+        "coolingSeconds": 54.9,
+        "mu": 0.48985
+      },
+      {
+        "index": 44,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 94.5,
+        "coolingSeconds": 123.4,
+        "mu": 0.47118
+      },
+      {
+        "index": 45,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.6,
+        "coolingSeconds": 109.4,
+        "mu": 0.49179
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.5,
+        "coolingSeconds": 99.5,
+        "mu": 0.48469
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.4,
+        "coolingSeconds": 105.7,
+        "mu": 0.46666
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.4,
+        "coolingSeconds": 116.8,
+        "mu": 0.48748
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.9,
+        "coolingSeconds": 109.3,
+        "mu": 0.5091
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 99.5,
+        "coolingSeconds": 187.4,
+        "mu": 0.46222
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 95.7,
+        "coolingSeconds": 179.4,
+        "mu": 0.47161
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 94.5,
+        "coolingSeconds": 191.5,
+        "mu": 0.46255
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 103.9,
+        "coolingSeconds": 199.3,
+        "mu": 0.48386
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 98.8,
+        "coolingSeconds": 210.8,
+        "mu": 0.48052
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 182.7,
+        "mu": 0.4705
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 99.5,
+        "coolingSeconds": 332.9,
+        "mu": 0.45651
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 98.7,
+        "coolingSeconds": 311.7,
+        "mu": 0.4788
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 104.0,
+        "coolingSeconds": 352.5,
+        "mu": 0.47175
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 102.0,
+        "coolingSeconds": 400.3,
+        "mu": 0.4449
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 94.5,
+        "coolingSeconds": 316.7,
+        "mu": 0.4462
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 102.1,
+        "coolingSeconds": 316.6,
+        "mu": 0.48255
+      },
+      {
+        "index": 62,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.6,
+        "coolingSeconds": 116.1,
+        "mu": 0.48041
+      },
+      {
+        "index": 63,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.4,
+        "coolingSeconds": 106.4,
+        "mu": 0.47896
+      },
+      {
+        "index": 64,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.2,
+        "coolingSeconds": 103.5,
+        "mu": 0.47561
+      },
+      {
+        "index": 65,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.2,
+        "coolingSeconds": 101.9,
+        "mu": 0.45506
+      },
+      {
+        "index": 66,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.4,
+        "coolingSeconds": 98.7,
+        "mu": 0.48624
+      },
+      {
+        "index": 67,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.2,
+        "coolingSeconds": 116.6,
+        "mu": 0.45803
+      },
+      {
+        "index": 68,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 97.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.44429
+      },
+      {
+        "index": 69,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 136.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.47173
+      },
+      {
+        "index": 70,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 166.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.4416
+      },
+      {
+        "index": 71,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 196.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.45738
+      },
+      {
+        "index": 72,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 228.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.46426
+      },
+      {
+        "index": 73,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 259.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.46315
+      },
+      {
+        "index": 74,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 294.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.47932
+      },
+      {
+        "index": 75,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 320.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.47252
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 356.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.47598
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 384.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.46463
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 427.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.48248
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 449.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.44465
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 486.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.4114
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 512.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.39083
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 550.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.34346
+      },
+      {
+        "index": 83,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.8,
+        "coolingSeconds": 119.1,
+        "mu": 0.54627
+      },
+      {
+        "index": 84,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.2,
+        "coolingSeconds": 110.4,
+        "mu": 0.54392
+      },
+      {
+        "index": 85,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 95.6,
+        "coolingSeconds": 106.5,
+        "mu": 0.5393
+      },
+      {
+        "index": 86,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.8,
+        "coolingSeconds": 97.0,
+        "mu": 0.53094
+      },
+      {
+        "index": 87,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.8,
+        "coolingSeconds": 96.1,
+        "mu": 0.52665
+      },
+      {
+        "index": 88,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 113.4,
+        "mu": 0.52342
+      },
+      {
+        "index": 89,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.5,
+        "coolingSeconds": 111.2,
+        "mu": 0.55369
+      },
+      {
+        "index": 90,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.9,
+        "coolingSeconds": 109.2,
+        "mu": 0.54784
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 95.9,
+        "mu": 0.53193
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.4,
+        "coolingSeconds": 104.8,
+        "mu": 0.54522
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.6,
+        "coolingSeconds": 104.1,
+        "mu": 0.52785
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 111.7,
+        "mu": 0.53726
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.0,
+        "coolingSeconds": 97.0,
+        "mu": 0.55191
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.0,
+        "coolingSeconds": 106.4,
+        "mu": 0.5332
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.1,
+        "coolingSeconds": 104.7,
+        "mu": 0.51951
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.4,
+        "coolingSeconds": 106.8,
+        "mu": 0.53752
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.3,
+        "coolingSeconds": 106.4,
+        "mu": 0.53527
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.1,
+        "coolingSeconds": 105.7,
+        "mu": 0.53742
+      },
+      {
+        "index": 101,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 110.8,
+        "mu": 0.53885
+      },
+      {
+        "index": 102,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.3,
+        "coolingSeconds": 113.8,
+        "mu": 0.52105
+      },
+      {
+        "index": 103,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.9,
+        "coolingSeconds": 117.4,
+        "mu": 0.54735
+      },
+      {
+        "index": 104,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.1,
+        "coolingSeconds": 114.3,
+        "mu": 0.52962
+      },
+      {
+        "index": 105,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 97.4,
+        "coolingSeconds": 115.4,
+        "mu": 0.53621
+      },
+      {
+        "index": 106,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.5,
+        "coolingSeconds": 115.0,
+        "mu": 0.545
+      },
+      {
+        "index": 107,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 96.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.4885
+      },
+      {
+        "index": 108,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 130.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.46313
+      },
+      {
+        "index": 109,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 164.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.48847
+      },
+      {
+        "index": 110,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 200.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.49651
+      },
+      {
+        "index": 111,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 226.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.46792
+      },
+      {
+        "index": 112,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 255.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.48006
+      },
+      {
+        "index": 113,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 293.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.48873
+      },
+      {
+        "index": 114,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 328.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.47854
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 357.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.47357
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 394.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.50244
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 417.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.4757
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 451.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.47096
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 480.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.41737
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 518.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.38363
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 547.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.36866
+      }
+    ]
+  },
+  "wrongProcedureLoaded": {
+    "fault": "wrongProcedureLoaded",
+    "onset": 0,
+    "order": {
+      "formulation": "FM-4420",
+      "application": "A12",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 95.7,
+        "coolingSeconds": 100.7,
+        "mu": 0.43123
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.4,
+        "coolingSeconds": 109.9,
+        "mu": 0.41521
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 101.8,
+        "coolingSeconds": 109.2,
+        "mu": 0.42662
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 97.7,
+        "coolingSeconds": 100.5,
+        "mu": 0.43398
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.3,
+        "coolingSeconds": 108.4,
+        "mu": 0.4304
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.6,
+        "coolingSeconds": 113.8,
+        "mu": 0.43255
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 101.6,
+        "coolingSeconds": 105.6,
+        "mu": 0.42193
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 97.1,
+        "coolingSeconds": 106.3,
+        "mu": 0.42466
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.3,
+        "coolingSeconds": 103.1,
+        "mu": 0.45545
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 103.9,
+        "coolingSeconds": 109.2,
+        "mu": 0.42138
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 92.6,
+        "coolingSeconds": 111.5,
+        "mu": 0.43518
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.1,
+        "coolingSeconds": 99.9,
+        "mu": 0.43657
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.7,
+        "coolingSeconds": 107.6,
+        "mu": 0.43602
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 97.9,
+        "coolingSeconds": 99.6,
+        "mu": 0.42922
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 96.5,
+        "coolingSeconds": 117.5,
+        "mu": 0.41384
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.2,
+        "coolingSeconds": 103.1,
+        "mu": 0.42932
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 95.1,
+        "coolingSeconds": 109.6,
+        "mu": 0.46478
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.2,
+        "coolingSeconds": 106.5,
+        "mu": 0.44175
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.9,
+        "coolingSeconds": 113.6,
+        "mu": 0.45495
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 97.4,
+        "coolingSeconds": 103.0,
+        "mu": 0.43435
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 102.6,
+        "coolingSeconds": 105.9,
+        "mu": 0.4541
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 104.2,
+        "coolingSeconds": 105.6,
+        "mu": 0.46032
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 101.6,
+        "coolingSeconds": 114.8,
+        "mu": 0.45937
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.3,
+        "coolingSeconds": 113.0,
+        "mu": 0.44792
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 103.1,
+        "coolingSeconds": 121.7,
+        "mu": 0.43916
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.0,
+        "coolingSeconds": 105.5,
+        "mu": 0.43413
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.6,
+        "coolingSeconds": 98.3,
+        "mu": 0.45349
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.9,
+        "coolingSeconds": 98.5,
+        "mu": 0.46768
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 105.3,
+        "coolingSeconds": 111.8,
+        "mu": 0.44573
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 96.5,
+        "coolingSeconds": 99.5,
+        "mu": 0.46065
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.1,
+        "coolingSeconds": 100.6,
+        "mu": 0.45187
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.5,
+        "coolingSeconds": 115.5,
+        "mu": 0.43288
+      },
+      {
+        "index": 32,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 100.3,
+        "coolingSeconds": 117.3,
+        "mu": 0.46385
+      },
+      {
+        "index": 33,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 96.7,
+        "coolingSeconds": 99.3,
+        "mu": 0.44956
+      },
+      {
+        "index": 34,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 104.1,
+        "coolingSeconds": 101.1,
+        "mu": 0.43969
+      },
+      {
+        "index": 35,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 106.4,
+        "coolingSeconds": 109.3,
+        "mu": 0.45712
+      },
+      {
+        "index": 36,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 99.7,
+        "coolingSeconds": 109.4,
+        "mu": 0.45349
+      },
+      {
+        "index": 37,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 96.8,
+        "coolingSeconds": 98.3,
+        "mu": 0.45404
+      },
+      {
+        "index": 38,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.4,
+        "coolingSeconds": 124.5,
+        "mu": 0.45597
+      },
+      {
+        "index": 39,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 35,
+        "initialTempC": 98.4,
+        "coolingSeconds": 103.4,
+        "mu": 0.48593
+      },
+      {
+        "index": 40,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.0,
+        "coolingSeconds": 100.7,
+        "mu": 0.46398
+      },
+      {
+        "index": 41,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.8,
+        "coolingSeconds": 127.4,
+        "mu": 0.44193
+      },
+      {
+        "index": 42,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.3,
+        "coolingSeconds": 111.1,
+        "mu": 0.44237
+      },
+      {
+        "index": 43,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.1,
+        "coolingSeconds": 106.1,
+        "mu": 0.45657
+      },
+      {
+        "index": 44,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.1,
+        "coolingSeconds": 109.6,
+        "mu": 0.45591
+      },
+      {
+        "index": 45,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.4,
+        "coolingSeconds": 109.6,
+        "mu": 0.4575
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 48.2,
+        "mu": 0.44887
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 103.0,
+        "coolingSeconds": 52.1,
+        "mu": 0.46904
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 98.6,
+        "coolingSeconds": 55.7,
+        "mu": 0.47848
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 103.5,
+        "coolingSeconds": 52.0,
+        "mu": 0.45566
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 100.0,
+        "coolingSeconds": 48.6,
+        "mu": 0.47474
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 51.2,
+        "mu": 0.45371
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.9,
+        "coolingSeconds": 115.7,
+        "mu": 0.47002
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.6,
+        "coolingSeconds": 108.6,
+        "mu": 0.45371
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.5,
+        "coolingSeconds": 94.9,
+        "mu": 0.45452
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.8,
+        "coolingSeconds": 116.8,
+        "mu": 0.46561
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.9,
+        "coolingSeconds": 109.8,
+        "mu": 0.47779
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.8,
+        "coolingSeconds": 107.4,
+        "mu": 0.47019
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 103.8,
+        "coolingSeconds": 178.9,
+        "mu": 0.47094
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 97.6,
+        "coolingSeconds": 207.4,
+        "mu": 0.47255
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 96.6,
+        "coolingSeconds": 208.8,
+        "mu": 0.46147
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 98.9,
+        "coolingSeconds": 191.6,
+        "mu": 0.42676
+      },
+      {
+        "index": 62,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 193.0,
+        "mu": 0.46889
+      },
+      {
+        "index": 63,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 30,
+        "initialTempC": 100.9,
+        "coolingSeconds": 200.6,
+        "mu": 0.46002
+      },
+      {
+        "index": 64,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 308.7,
+        "mu": 0.4645
+      },
+      {
+        "index": 65,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 101.3,
+        "coolingSeconds": 322.3,
+        "mu": 0.43315
+      },
+      {
+        "index": 66,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 100.3,
+        "coolingSeconds": 333.2,
+        "mu": 0.44664
+      },
+      {
+        "index": 67,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 99.2,
+        "coolingSeconds": 303.0,
+        "mu": 0.45243
+      },
+      {
+        "index": 68,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 279.3,
+        "mu": 0.4464
+      },
+      {
+        "index": 69,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 30,
+        "initialTempC": 95.9,
+        "coolingSeconds": 380.5,
+        "mu": 0.44602
+      },
+      {
+        "index": 70,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.2,
+        "coolingSeconds": 91.5,
+        "mu": 0.45166
+      },
+      {
+        "index": 71,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.3,
+        "coolingSeconds": 98.7,
+        "mu": 0.45909
+      },
+      {
+        "index": 72,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 110.0,
+        "coolingSeconds": 108.7,
+        "mu": 0.44342
+      },
+      {
+        "index": 73,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.4,
+        "coolingSeconds": 117.2,
+        "mu": 0.47533
+      },
+      {
+        "index": 74,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 106.2,
+        "coolingSeconds": 105.9,
+        "mu": 0.44926
+      },
+      {
+        "index": 75,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 103.6,
+        "coolingSeconds": 108.6,
+        "mu": 0.46139
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 97.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.44597
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 133.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.44757
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 160.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.45907
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 195.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.45474
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 221.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.45436
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 265.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.44361
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 292.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.46045
+      },
+      {
+        "index": 83,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 325.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.48114
+      },
+      {
+        "index": 84,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 359.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.43999
+      },
+      {
+        "index": 85,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 389.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.45685
+      },
+      {
+        "index": 86,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 418.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.45685
+      },
+      {
+        "index": 87,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 442.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.45777
+      },
+      {
+        "index": 88,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 479.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.4184
+      },
+      {
+        "index": 89,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 518.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.4484
+      },
+      {
+        "index": 90,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 549.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.41075
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.5,
+        "coolingSeconds": 94.7,
+        "mu": 0.45333
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 100.3,
+        "mu": 0.4298
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.8,
+        "coolingSeconds": 96.2,
+        "mu": 0.43006
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.1,
+        "coolingSeconds": 90.3,
+        "mu": 0.4197
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.6,
+        "coolingSeconds": 105.1,
+        "mu": 0.42468
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.3,
+        "coolingSeconds": 101.9,
+        "mu": 0.42044
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.2,
+        "coolingSeconds": 113.1,
+        "mu": 0.41821
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.2,
+        "coolingSeconds": 113.0,
+        "mu": 0.43487
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.5,
+        "coolingSeconds": 107.6,
+        "mu": 0.41863
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 101.5,
+        "mu": 0.4243
+      },
+      {
+        "index": 101,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.9,
+        "coolingSeconds": 107.3,
+        "mu": 0.43019
+      },
+      {
+        "index": 102,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.8,
+        "coolingSeconds": 95.2,
+        "mu": 0.44002
+      },
+      {
+        "index": 103,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.7,
+        "coolingSeconds": 124.0,
+        "mu": 0.42371
+      },
+      {
+        "index": 104,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.0,
+        "coolingSeconds": 116.2,
+        "mu": 0.44394
+      },
+      {
+        "index": 105,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.5,
+        "coolingSeconds": 94.9,
+        "mu": 0.42168
+      },
+      {
+        "index": 106,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.8,
+        "coolingSeconds": 117.5,
+        "mu": 0.4261
+      },
+      {
+        "index": 107,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.3,
+        "coolingSeconds": 103.1,
+        "mu": 0.41009
+      },
+      {
+        "index": 108,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.5,
+        "coolingSeconds": 99.7,
+        "mu": 0.42282
+      },
+      {
+        "index": 109,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.1,
+        "coolingSeconds": 115.9,
+        "mu": 0.41585
+      },
+      {
+        "index": 110,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 93.4,
+        "coolingSeconds": 105.0,
+        "mu": 0.43223
+      },
+      {
+        "index": 111,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.7,
+        "coolingSeconds": 114.8,
+        "mu": 0.43202
+      },
+      {
+        "index": 112,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 96.5,
+        "coolingSeconds": 117.4,
+        "mu": 0.40699
+      },
+      {
+        "index": 113,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.7,
+        "coolingSeconds": 105.9,
+        "mu": 0.4131
+      },
+      {
+        "index": 114,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.5,
+        "coolingSeconds": 107.5,
+        "mu": 0.43317
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 99.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.44315
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 134.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.45456
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 161.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.45919
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 195.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.4564
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 226.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.437
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 260.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.44668
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 293.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.4464
+      },
+      {
+        "index": 122,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 325.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.43661
+      },
+      {
+        "index": 123,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 351.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.48199
+      },
+      {
+        "index": 124,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 389.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.46689
+      },
+      {
+        "index": 125,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 422.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.43895
+      },
+      {
+        "index": 126,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 453.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.45491
+      },
+      {
+        "index": 127,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 486.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.46001
+      },
+      {
+        "index": 128,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 516.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.41517
+      },
+      {
+        "index": 129,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 549.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.38848
+      }
+    ]
+  },
+  "coolingAirFailure": {
+    "fault": "coolingAirFailure",
+    "onset": 52,
+    "order": {
+      "formulation": "FM-5736",
+      "application": "A08",
+      "procedure": "AKM"
+    },
+    "stops": [
+      {
+        "index": 0,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.4,
+        "coolingSeconds": 120.4,
+        "mu": 0.42997
+      },
+      {
+        "index": 1,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 94.1,
+        "coolingSeconds": 93.0,
+        "mu": 0.42725
+      },
+      {
+        "index": 2,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 103.9,
+        "coolingSeconds": 114.0,
+        "mu": 0.4014
+      },
+      {
+        "index": 3,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 111.3,
+        "mu": 0.42079
+      },
+      {
+        "index": 4,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.1,
+        "coolingSeconds": 114.4,
+        "mu": 0.43159
+      },
+      {
+        "index": 5,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 104.8,
+        "coolingSeconds": 95.3,
+        "mu": 0.41404
+      },
+      {
+        "index": 6,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.4,
+        "coolingSeconds": 92.2,
+        "mu": 0.41859
+      },
+      {
+        "index": 7,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.8,
+        "coolingSeconds": 105.7,
+        "mu": 0.42861
+      },
+      {
+        "index": 8,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.7,
+        "coolingSeconds": 100.1,
+        "mu": 0.4228
+      },
+      {
+        "index": 9,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.7,
+        "coolingSeconds": 100.8,
+        "mu": 0.41888
+      },
+      {
+        "index": 10,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.1,
+        "coolingSeconds": 119.3,
+        "mu": 0.43707
+      },
+      {
+        "index": 11,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 108.5,
+        "mu": 0.42567
+      },
+      {
+        "index": 12,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.8,
+        "coolingSeconds": 102.5,
+        "mu": 0.44378
+      },
+      {
+        "index": 13,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.0,
+        "coolingSeconds": 96.7,
+        "mu": 0.44412
+      },
+      {
+        "index": 14,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.4,
+        "coolingSeconds": 102.9,
+        "mu": 0.42576
+      },
+      {
+        "index": 15,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 96.4,
+        "coolingSeconds": 108.4,
+        "mu": 0.42083
+      },
+      {
+        "index": 16,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.6,
+        "coolingSeconds": 100.9,
+        "mu": 0.44137
+      },
+      {
+        "index": 17,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.2,
+        "coolingSeconds": 102.8,
+        "mu": 0.41969
+      },
+      {
+        "index": 18,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.6,
+        "coolingSeconds": 113.3,
+        "mu": 0.41881
+      },
+      {
+        "index": 19,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.3,
+        "coolingSeconds": 109.4,
+        "mu": 0.44229
+      },
+      {
+        "index": 20,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.3,
+        "coolingSeconds": 96.4,
+        "mu": 0.42982
+      },
+      {
+        "index": 21,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.2,
+        "coolingSeconds": 112.2,
+        "mu": 0.45279
+      },
+      {
+        "index": 22,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.7,
+        "coolingSeconds": 116.0,
+        "mu": 0.4226
+      },
+      {
+        "index": 23,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.8,
+        "coolingSeconds": 96.9,
+        "mu": 0.43897
+      },
+      {
+        "index": 24,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 99.7,
+        "coolingSeconds": 116.4,
+        "mu": 0.42875
+      },
+      {
+        "index": 25,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 97.3,
+        "coolingSeconds": 113.7,
+        "mu": 0.44261
+      },
+      {
+        "index": 26,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 102.2,
+        "coolingSeconds": 102.0,
+        "mu": 0.45302
+      },
+      {
+        "index": 27,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 108.1,
+        "mu": 0.44908
+      },
+      {
+        "index": 28,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 98.5,
+        "coolingSeconds": 124.5,
+        "mu": 0.44837
+      },
+      {
+        "index": 29,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.8,
+        "coolingSeconds": 109.5,
+        "mu": 0.46005
+      },
+      {
+        "index": 30,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 101.7,
+        "coolingSeconds": 108.0,
+        "mu": 0.4622
+      },
+      {
+        "index": 31,
+        "section": "burnish",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 100.6,
+        "coolingSeconds": 115.7,
+        "mu": 0.44982
+      },
+      {
+        "index": 32,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 98.2,
+        "coolingSeconds": 107.3,
+        "mu": 0.43823
+      },
+      {
+        "index": 33,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.0,
+        "coolingSeconds": 99.8,
+        "mu": 0.45557
+      },
+      {
+        "index": 34,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.0,
+        "coolingSeconds": 104.0,
+        "mu": 0.46299
+      },
+      {
+        "index": 35,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.2,
+        "coolingSeconds": 110.1,
+        "mu": 0.44364
+      },
+      {
+        "index": 36,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.3,
+        "coolingSeconds": 119.0,
+        "mu": 0.45106
+      },
+      {
+        "index": 37,
+        "section": "characteristic-1",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.7,
+        "coolingSeconds": 113.2,
+        "mu": 0.45202
+      },
+      {
+        "index": 38,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 98.7,
+        "coolingSeconds": 51.8,
+        "mu": 0.48031
+      },
+      {
+        "index": 39,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 103.1,
+        "coolingSeconds": 47.5,
+        "mu": 0.47408
+      },
+      {
+        "index": 40,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 99.2,
+        "coolingSeconds": 39.9,
+        "mu": 0.46188
+      },
+      {
+        "index": 41,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 104.6,
+        "coolingSeconds": 41.1,
+        "mu": 0.43907
+      },
+      {
+        "index": 42,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 97.2,
+        "coolingSeconds": 42.6,
+        "mu": 0.46301
+      },
+      {
+        "index": 43,
+        "section": "speed",
+        "speedKmh": 40,
+        "pressureBar": 40,
+        "initialTempC": 97.6,
+        "coolingSeconds": 45.4,
+        "mu": 0.47053
+      },
+      {
+        "index": 44,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 102.4,
+        "coolingSeconds": 108.8,
+        "mu": 0.4393
+      },
+      {
+        "index": 45,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 95.0,
+        "coolingSeconds": 100.2,
+        "mu": 0.43655
+      },
+      {
+        "index": 46,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 104.5,
+        "coolingSeconds": 110.1,
+        "mu": 0.45017
+      },
+      {
+        "index": 47,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 100.6,
+        "coolingSeconds": 114.2,
+        "mu": 0.44853
+      },
+      {
+        "index": 48,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 99.8,
+        "coolingSeconds": 101.1,
+        "mu": 0.41622
+      },
+      {
+        "index": 49,
+        "section": "speed",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 101.3,
+        "coolingSeconds": 111.8,
+        "mu": 0.44287
+      },
+      {
+        "index": 50,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 97.8,
+        "coolingSeconds": 187.3,
+        "mu": 0.42107
+      },
+      {
+        "index": 51,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 100.4,
+        "coolingSeconds": 213.8,
+        "mu": 0.41037
+      },
+      {
+        "index": 52,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 165.9,
+        "coolingSeconds": 600.0,
+        "mu": 0.42782
+      },
+      {
+        "index": 53,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 172.4,
+        "coolingSeconds": 600.0,
+        "mu": 0.41341
+      },
+      {
+        "index": 54,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 157.4,
+        "coolingSeconds": 600.0,
+        "mu": 0.43441
+      },
+      {
+        "index": 55,
+        "section": "speed",
+        "speedKmh": 120,
+        "pressureBar": 40,
+        "initialTempC": 143.8,
+        "coolingSeconds": 600.0,
+        "mu": 0.46242
+      },
+      {
+        "index": 56,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 142.3,
+        "coolingSeconds": 600.0,
+        "mu": 0.41493
+      },
+      {
+        "index": 57,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 168.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.41351
+      },
+      {
+        "index": 58,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 142.7,
+        "coolingSeconds": 600.0,
+        "mu": 0.41051
+      },
+      {
+        "index": 59,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 156.1,
+        "coolingSeconds": 600.0,
+        "mu": 0.43507
+      },
+      {
+        "index": 60,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 154.5,
+        "coolingSeconds": 600.0,
+        "mu": 0.43273
+      },
+      {
+        "index": 61,
+        "section": "speed",
+        "speedKmh": 160,
+        "pressureBar": 40,
+        "initialTempC": 147.1,
+        "coolingSeconds": 600.0,
+        "mu": 0.40152
+      },
+      {
+        "index": 62,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 163.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.4133
+      },
+      {
+        "index": 63,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 161.9,
+        "coolingSeconds": 600.0,
+        "mu": 0.46615
+      },
+      {
+        "index": 64,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 166.7,
+        "coolingSeconds": 600.0,
+        "mu": 0.43476
+      },
+      {
+        "index": 65,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 160.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.43696
+      },
+      {
+        "index": 66,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 170.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.47308
+      },
+      {
+        "index": 67,
+        "section": "characteristic-2",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 167.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.45986
+      },
+      {
+        "index": 68,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 101.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.44778
+      },
+      {
+        "index": 69,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 127.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.44272
+      },
+      {
+        "index": 70,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 163.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.43554
+      },
+      {
+        "index": 71,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 195.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.43469
+      },
+      {
+        "index": 72,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 226.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.42619
+      },
+      {
+        "index": 73,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 259.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.41928
+      },
+      {
+        "index": 74,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 289.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.43896
+      },
+      {
+        "index": 75,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 321.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.42421
+      },
+      {
+        "index": 76,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 357.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.42029
+      },
+      {
+        "index": 77,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 386.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.44262
+      },
+      {
+        "index": 78,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 423.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.41911
+      },
+      {
+        "index": 79,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 454.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.3736
+      },
+      {
+        "index": 80,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 483.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.33032
+      },
+      {
+        "index": 81,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 517.9,
+        "coolingSeconds": 30.0,
+        "mu": 0.2818
+      },
+      {
+        "index": 82,
+        "section": "fade-1",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 555.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.21423
+      },
+      {
+        "index": 83,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 166.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.45687
+      },
+      {
+        "index": 84,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 154.9,
+        "coolingSeconds": 600.0,
+        "mu": 0.47044
+      },
+      {
+        "index": 85,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 143.1,
+        "coolingSeconds": 600.0,
+        "mu": 0.47304
+      },
+      {
+        "index": 86,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 169.8,
+        "coolingSeconds": 600.0,
+        "mu": 0.45944
+      },
+      {
+        "index": 87,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 158.8,
+        "coolingSeconds": 600.0,
+        "mu": 0.47009
+      },
+      {
+        "index": 88,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 167.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.49579
+      },
+      {
+        "index": 89,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 161.5,
+        "coolingSeconds": 600.0,
+        "mu": 0.48697
+      },
+      {
+        "index": 90,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 142.5,
+        "coolingSeconds": 600.0,
+        "mu": 0.4711
+      },
+      {
+        "index": 91,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 166.8,
+        "coolingSeconds": 600.0,
+        "mu": 0.47088
+      },
+      {
+        "index": 92,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 140.1,
+        "coolingSeconds": 600.0,
+        "mu": 0.4514
+      },
+      {
+        "index": 93,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 170.4,
+        "coolingSeconds": 600.0,
+        "mu": 0.48056
+      },
+      {
+        "index": 94,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 177.9,
+        "coolingSeconds": 600.0,
+        "mu": 0.47113
+      },
+      {
+        "index": 95,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 143.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.46438
+      },
+      {
+        "index": 96,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 156.8,
+        "coolingSeconds": 600.0,
+        "mu": 0.48251
+      },
+      {
+        "index": 97,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 156.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.47638
+      },
+      {
+        "index": 98,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 143.9,
+        "coolingSeconds": 600.0,
+        "mu": 0.47647
+      },
+      {
+        "index": 99,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 173.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.47338
+      },
+      {
+        "index": 100,
+        "section": "recovery",
+        "speedKmh": 80,
+        "pressureBar": 30,
+        "initialTempC": 148.1,
+        "coolingSeconds": 600.0,
+        "mu": 0.48008
+      },
+      {
+        "index": 101,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 152.7,
+        "coolingSeconds": 600.0,
+        "mu": 0.46406
+      },
+      {
+        "index": 102,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 150.4,
+        "coolingSeconds": 600.0,
+        "mu": 0.45307
+      },
+      {
+        "index": 103,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 167.0,
+        "coolingSeconds": 600.0,
+        "mu": 0.47271
+      },
+      {
+        "index": 104,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 160.4,
+        "coolingSeconds": 600.0,
+        "mu": 0.46986
+      },
+      {
+        "index": 105,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 144.5,
+        "coolingSeconds": 600.0,
+        "mu": 0.45755
+      },
+      {
+        "index": 106,
+        "section": "characteristic-3",
+        "speedKmh": 80,
+        "pressureBar": 40,
+        "initialTempC": 169.2,
+        "coolingSeconds": 600.0,
+        "mu": 0.46339
+      },
+      {
+        "index": 107,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 101.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.41714
+      },
+      {
+        "index": 108,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 130.2,
+        "coolingSeconds": 30.0,
+        "mu": 0.42049
+      },
+      {
+        "index": 109,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 164.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.42024
+      },
+      {
+        "index": 110,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 201.7,
+        "coolingSeconds": 30.0,
+        "mu": 0.43894
+      },
+      {
+        "index": 111,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 224.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.42955
+      },
+      {
+        "index": 112,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 260.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.45132
+      },
+      {
+        "index": 113,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 296.6,
+        "coolingSeconds": 30.0,
+        "mu": 0.42103
+      },
+      {
+        "index": 114,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 327.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.43205
+      },
+      {
+        "index": 115,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 352.8,
+        "coolingSeconds": 30.0,
+        "mu": 0.42714
+      },
+      {
+        "index": 116,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 389.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.42944
+      },
+      {
+        "index": 117,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 422.3,
+        "coolingSeconds": 30.0,
+        "mu": 0.39609
+      },
+      {
+        "index": 118,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 452.4,
+        "coolingSeconds": 30.0,
+        "mu": 0.36918
+      },
+      {
+        "index": 119,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 483.5,
+        "coolingSeconds": 30.0,
+        "mu": 0.31602
+      },
+      {
+        "index": 120,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 517.1,
+        "coolingSeconds": 30.0,
+        "mu": 0.27179
+      },
+      {
+        "index": 121,
+        "section": "fade-2",
+        "speedKmh": 100,
+        "pressureBar": 60,
+        "initialTempC": 547.0,
+        "coolingSeconds": 30.0,
+        "mu": 0.23921
+      }
+    ]
+  }
+}

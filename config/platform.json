@@ -1,0 +1,38 @@
+{
+  "_doc": "The platform's settings. Read by the C# service, rdo-core and the Python analytics service. The world never reads this file.",
+  "planner": {
+    "changeoverHours": 3.0,
+    "urgentSlackHours": 36.0,
+    "agingHoursPerChangeover": 20.0,
+    "priorityWeightHours": 16.0
+  },
+  "intake": {
+    "minimumLeadDays": 10,
+    "defaultTimeZone": "Europe/Berlin"
+  },
+  "evaluation": {
+    "engine": "shadow",
+    "parityTolerance": 0.005,
+    "fadeFloorShareOfTarget": 0.7
+  },
+  "monitor": {
+    "afterBurnishOnly": true,
+    "procedureTolerance": {
+      "pressureBar": 1.5,
+      "speedKmh": 2.0
+    },
+    "initialTempToleranceC": 25,
+    "coolingDropShare": 0.45,
+    "coolingBaselineStops": 4,
+    "muJump": 0.12,
+    "characteristicShift": 0.03,
+    "restartHours": 2.0,
+    "characteristicShiftAfterFade": 0.08
+  },
+  "service": {
+    "intakeModel": "claude-sonnet-5-5",
+    "inputEurPerMillionTokens": 2.8,
+    "outputEurPerMillionTokens": 14.0,
+    "rateLimitPerMinute": 120
+  }
+}

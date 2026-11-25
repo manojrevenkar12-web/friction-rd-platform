@@ -1,0 +1,20 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: ${MSSQL_SA_PASSWORD:-Rdo_dev_Passw0rd!}
+    ports: ["1433:1433"]
+  analytics:
+    build: { context: ., dockerfile: analytics/Dockerfile }
+    ports: ["8100:8100"]
+  api:
+    build: { context: ., dockerfile: src/Rdo.Api/Dockerfile }
+    environment:
+      RDO_SQLSERVER: "Server=sqlserver,1433;User Id=sa;Password=${MSSQL_SA_PASSWORD:-Rdo_dev_Passw0rd!};TrustServerCertificate=True;Encrypt=False"
+      RDO_ANALYTICS_URL: http://analytics:8100
+      RDO_API_KEYS: ${RDO_API_KEYS:-engineer:anna:engineer-key,lab:jens:lab-key}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      RDO_DEMO_SEED: "60"
+    ports: ["8080:8080"]
+    depends_on: [sqlserver, analytics]

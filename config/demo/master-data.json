@@ -1,0 +1,2130 @@
+{
+  "benches": [
+    {
+      "id": "D01",
+      "kind": "passengerCar"
+    },
+    {
+      "id": "D02",
+      "kind": "passengerCar"
+    },
+    {
+      "id": "D03",
+      "kind": "passengerCar"
+    },
+    {
+      "id": "D04",
+      "kind": "passengerCar"
+    },
+    {
+      "id": "D05",
+      "kind": "passengerCar"
+    },
+    {
+      "id": "C01",
+      "kind": "commercialVehicle"
+    },
+    {
+      "id": "C02",
+      "kind": "commercialVehicle"
+    },
+    {
+      "id": "N01",
+      "kind": "nvh"
+    }
+  ],
+  "applications": [
+    {
+      "id": "A01",
+      "vehicle": "Compact C1",
+      "axle": "front",
+      "fixture": "FX-01",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A02",
+      "vehicle": "Compact C2",
+      "axle": "front",
+      "fixture": "FX-02",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A03",
+      "vehicle": "Midsize M1",
+      "axle": "front",
+      "fixture": "FX-03",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A04",
+      "vehicle": "Midsize M3",
+      "axle": "front",
+      "fixture": "FX-04",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A05",
+      "vehicle": "Sports S2",
+      "axle": "front",
+      "fixture": "FX-03",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A06",
+      "vehicle": "SUV U1",
+      "axle": "front",
+      "fixture": "FX-05",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A07",
+      "vehicle": "SUV U4",
+      "axle": "front",
+      "fixture": "FX-06",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A08",
+      "vehicle": "Electric E1",
+      "axle": "front",
+      "fixture": "FX-07",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A09",
+      "vehicle": "Electric E3",
+      "axle": "front",
+      "fixture": "FX-08",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A10",
+      "vehicle": "Estate K2",
+      "axle": "front",
+      "fixture": "FX-03",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A11",
+      "vehicle": "Compact C1",
+      "axle": "rear",
+      "fixture": "FX-09",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A12",
+      "vehicle": "Compact C2",
+      "axle": "rear",
+      "fixture": "FX-09",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A13",
+      "vehicle": "Midsize M1",
+      "axle": "rear",
+      "fixture": "FX-10",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A14",
+      "vehicle": "Midsize M3",
+      "axle": "rear",
+      "fixture": "FX-11",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A15",
+      "vehicle": "Sports S2",
+      "axle": "rear",
+      "fixture": "FX-12",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A16",
+      "vehicle": "SUV U1",
+      "axle": "rear",
+      "fixture": "FX-13",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A17",
+      "vehicle": "SUV U4",
+      "axle": "rear",
+      "fixture": "FX-14",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A18",
+      "vehicle": "Electric E1",
+      "axle": "rear",
+      "fixture": "FX-03",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A19",
+      "vehicle": "Electric E3",
+      "axle": "rear",
+      "fixture": "FX-15",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A20",
+      "vehicle": "Estate K2",
+      "axle": "rear",
+      "fixture": "FX-16",
+      "vehicleClass": "passengerCar"
+    },
+    {
+      "id": "A27",
+      "vehicle": "Van V2",
+      "axle": "rear",
+      "fixture": "FX-19",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A28",
+      "vehicle": "Truck T4",
+      "axle": "rear",
+      "fixture": "FX-20",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A29",
+      "vehicle": "Truck T7",
+      "axle": "rear",
+      "fixture": "FX-21",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A30",
+      "vehicle": "Bus B2",
+      "axle": "rear",
+      "fixture": "FX-22",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A31",
+      "vehicle": "Van V1",
+      "axle": "front",
+      "fixture": "FX-20",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A32",
+      "vehicle": "Van V2",
+      "axle": "front",
+      "fixture": "FX-23",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A33",
+      "vehicle": "Truck T4",
+      "axle": "front",
+      "fixture": "FX-24",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A34",
+      "vehicle": "Truck T7",
+      "axle": "front",
+      "fixture": "FX-25",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A35",
+      "vehicle": "Bus B2",
+      "axle": "front",
+      "fixture": "FX-26",
+      "vehicleClass": "commercialVehicle"
+    },
+    {
+      "id": "A36",
+      "vehicle": "Van V1",
+      "axle": "rear",
+      "fixture": "FX-21",
+      "vehicleClass": "commercialVehicle"
+    }
+  ],
+  "formulations": [
+    {
+      "code": "FM-4204",
+      "status": "releasedForTest",
+      "applications": [
+        "A16",
+        "A17"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-8232",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A10",
+        "A16"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-2526",
+      "status": "releasedForTest",
+      "applications": [
+        "A11",
+        "A12"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-8924",
+      "status": "releasedForTest",
+      "applications": [
+        "A08",
+        "A15"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-2411",
+      "status": "releasedForTest",
+      "applications": [
+        "A35",
+        "A36"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-9507",
+      "status": "releasedForTest",
+      "applications": [
+        "A14",
+        "A07",
+        "A15"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-3947",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A02",
+        "A15"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-9359",
+      "status": "releasedForTest",
+      "applications": [
+        "A17"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-3951",
+      "status": "releasedForTest",
+      "applications": [
+        "A09",
+        "A16"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-4221",
+      "status": "releasedForTest",
+      "applications": [
+        "A29",
+        "A33"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-6227",
+      "status": "releasedForTest",
+      "applications": [
+        "A19",
+        "A05"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-1777",
+      "status": "obsolete",
+      "applications": [
+        "A09",
+        "A15"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-3860",
+      "status": "releasedForTest",
+      "applications": [
+        "A13"
+      ],
+      "muTargetLow": 0.46,
+      "muTargetHigh": 0.56
+    },
+    {
+      "code": "FM-9344",
+      "status": "releasedForTest",
+      "applications": [
+        "A35",
+        "A36",
+        "A31"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-8823",
+      "status": "releasedForTest",
+      "applications": [
+        "A14"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-9437",
+      "status": "inDevelopment",
+      "applications": [
+        "A31",
+        "A33",
+        "A36"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-9069",
+      "status": "releasedForTest",
+      "applications": [
+        "A03",
+        "A14"
+      ],
+      "muTargetLow": 0.46,
+      "muTargetHigh": 0.56
+    },
+    {
+      "code": "FM-7842",
+      "status": "releasedForTest",
+      "applications": [
+        "A20",
+        "A02",
+        "A17"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-1488",
+      "status": "releasedForTest",
+      "applications": [
+        "A02",
+        "A09",
+        "A03"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-9057",
+      "status": "releasedForTest",
+      "applications": [
+        "A07",
+        "A16",
+        "A15"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-9416",
+      "status": "releasedForTest",
+      "applications": [
+        "A10"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-1964",
+      "status": "inDevelopment",
+      "applications": [
+        "A33",
+        "A34"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-3823",
+      "status": "releasedForTest",
+      "applications": [
+        "A34"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-4384",
+      "status": "releasedForTest",
+      "applications": [
+        "A33"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-8653",
+      "status": "inDevelopment",
+      "applications": [
+        "A13"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-3168",
+      "status": "releasedForTest",
+      "applications": [
+        "A30",
+        "A28",
+        "A31"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-2008",
+      "status": "releasedForTest",
+      "applications": [
+        "A05"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-3950",
+      "status": "inDevelopment",
+      "applications": [
+        "A35"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-1375",
+      "status": "releasedForTest",
+      "applications": [
+        "A31",
+        "A28",
+        "A30"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-3639",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A04",
+        "A07"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-3923",
+      "status": "obsolete",
+      "applications": [
+        "A04",
+        "A02"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-2410",
+      "status": "inDevelopment",
+      "applications": [
+        "A28",
+        "A36",
+        "A33"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-1848",
+      "status": "releasedForTest",
+      "applications": [
+        "A02"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-9412",
+      "status": "releasedForTest",
+      "applications": [
+        "A09",
+        "A13"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-2028",
+      "status": "releasedForTest",
+      "applications": [
+        "A08",
+        "A09"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-1808",
+      "status": "releasedForTest",
+      "applications": [
+        "A18",
+        "A19",
+        "A09"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-5330",
+      "status": "releasedForTest",
+      "applications": [
+        "A16",
+        "A17"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-7260",
+      "status": "releasedForTest",
+      "applications": [
+        "A06",
+        "A14"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-7326",
+      "status": "releasedForTest",
+      "applications": [
+        "A08",
+        "A12",
+        "A15"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-5426",
+      "status": "releasedForTest",
+      "applications": [
+        "A30"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-9228",
+      "status": "releasedForTest",
+      "applications": [
+        "A16"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-4685",
+      "status": "inDevelopment",
+      "applications": [
+        "A02",
+        "A14",
+        "A07"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-7775",
+      "status": "obsolete",
+      "applications": [
+        "A20",
+        "A17",
+        "A10"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-7083",
+      "status": "releasedForTest",
+      "applications": [
+        "A33",
+        "A32"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-6153",
+      "status": "inDevelopment",
+      "applications": [
+        "A08"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-2142",
+      "status": "releasedForTest",
+      "applications": [
+        "A17",
+        "A01",
+        "A07"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-6037",
+      "status": "releasedForTest",
+      "applications": [
+        "A04",
+        "A08"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-1764",
+      "status": "releasedForTest",
+      "applications": [
+        "A06",
+        "A15",
+        "A01"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-9593",
+      "status": "releasedForTest",
+      "applications": [
+        "A01",
+        "A05",
+        "A04"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-8864",
+      "status": "releasedForTest",
+      "applications": [
+        "A17",
+        "A16",
+        "A03"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-5104",
+      "status": "releasedForTest",
+      "applications": [
+        "A09"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-3791",
+      "status": "inDevelopment",
+      "applications": [
+        "A13",
+        "A12",
+        "A11"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-8208",
+      "status": "releasedForTest",
+      "applications": [
+        "A17",
+        "A07"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-6982",
+      "status": "releasedForTest",
+      "applications": [
+        "A17",
+        "A19",
+        "A14"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-4704",
+      "status": "releasedForTest",
+      "applications": [
+        "A12",
+        "A01",
+        "A20"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-1607",
+      "status": "releasedForTest",
+      "applications": [
+        "A01"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-8351",
+      "status": "releasedForTest",
+      "applications": [
+        "A30",
+        "A33",
+        "A36"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-3766",
+      "status": "releasedForTest",
+      "applications": [
+        "A27",
+        "A28",
+        "A35"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-6362",
+      "status": "releasedForTest",
+      "applications": [
+        "A15"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-2074",
+      "status": "releasedForTest",
+      "applications": [
+        "A16"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-8420",
+      "status": "releasedForTest",
+      "applications": [
+        "A03",
+        "A07"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-4876",
+      "status": "releasedForTest",
+      "applications": [
+        "A15",
+        "A08",
+        "A06"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-8896",
+      "status": "releasedForTest",
+      "applications": [
+        "A02",
+        "A12",
+        "A10"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-8301",
+      "status": "releasedForTest",
+      "applications": [
+        "A29"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-7217",
+      "status": "inDevelopment",
+      "applications": [
+        "A10"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-3971",
+      "status": "releasedForTest",
+      "applications": [
+        "A11"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-5800",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A06"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-8830",
+      "status": "obsolete",
+      "applications": [
+        "A08",
+        "A01",
+        "A09"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-5923",
+      "status": "releasedForTest",
+      "applications": [
+        "A03",
+        "A15",
+        "A13"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-8667",
+      "status": "releasedForTest",
+      "applications": [
+        "A02"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-7182",
+      "status": "releasedForTest",
+      "applications": [
+        "A07",
+        "A11"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-6480",
+      "status": "releasedForTest",
+      "applications": [
+        "A31",
+        "A29"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-2513",
+      "status": "releasedForTest",
+      "applications": [
+        "A28"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-6748",
+      "status": "releasedForTest",
+      "applications": [
+        "A16",
+        "A12",
+        "A10"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-3335",
+      "status": "releasedForTest",
+      "applications": [
+        "A06"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-2395",
+      "status": "releasedForTest",
+      "applications": [
+        "A03",
+        "A01",
+        "A16"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-5229",
+      "status": "releasedForTest",
+      "applications": [
+        "A06"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-4218",
+      "status": "releasedForTest",
+      "applications": [
+        "A34"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-3378",
+      "status": "releasedForTest",
+      "applications": [
+        "A31"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-7663",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A17",
+        "A11"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-8935",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A06"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-3275",
+      "status": "releasedForTest",
+      "applications": [
+        "A07",
+        "A17"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-3675",
+      "status": "inDevelopment",
+      "applications": [
+        "A29",
+        "A31"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-7314",
+      "status": "releasedForTest",
+      "applications": [
+        "A10",
+        "A18"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-3141",
+      "status": "releasedForTest",
+      "applications": [
+        "A14"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-7952",
+      "status": "releasedForTest",
+      "applications": [
+        "A05",
+        "A07",
+        "A08"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-4420",
+      "status": "releasedForTest",
+      "applications": [
+        "A12"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-6342",
+      "status": "releasedForTest",
+      "applications": [
+        "A20",
+        "A11"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-9864",
+      "status": "releasedForTest",
+      "applications": [
+        "A06",
+        "A05",
+        "A12"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-7392",
+      "status": "releasedForTest",
+      "applications": [
+        "A32",
+        "A29",
+        "A35"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-5155",
+      "status": "releasedForTest",
+      "applications": [
+        "A08"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-6267",
+      "status": "releasedForTest",
+      "applications": [
+        "A32",
+        "A27",
+        "A29"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-8969",
+      "status": "obsolete",
+      "applications": [
+        "A06",
+        "A10",
+        "A19"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-9534",
+      "status": "releasedForTest",
+      "applications": [
+        "A03"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-7656",
+      "status": "releasedForTest",
+      "applications": [
+        "A27"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-9202",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A19"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-5301",
+      "status": "releasedForTest",
+      "applications": [
+        "A33"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-8273",
+      "status": "releasedForTest",
+      "applications": [
+        "A11",
+        "A15"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-3803",
+      "status": "releasedForTest",
+      "applications": [
+        "A19",
+        "A05"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-4932",
+      "status": "inDevelopment",
+      "applications": [
+        "A04",
+        "A15"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-8204",
+      "status": "releasedForTest",
+      "applications": [
+        "A32",
+        "A27",
+        "A33"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-3982",
+      "status": "releasedForTest",
+      "applications": [
+        "A34",
+        "A35",
+        "A28"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-4369",
+      "status": "releasedForTest",
+      "applications": [
+        "A29",
+        "A27"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-2419",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A12"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-1575",
+      "status": "releasedForTest",
+      "applications": [
+        "A35"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-6283",
+      "status": "releasedForTest",
+      "applications": [
+        "A06",
+        "A07"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-1810",
+      "status": "inDevelopment",
+      "applications": [
+        "A35",
+        "A29",
+        "A30"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-2589",
+      "status": "releasedForTest",
+      "applications": [
+        "A30",
+        "A28"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-8879",
+      "status": "releasedForTest",
+      "applications": [
+        "A31",
+        "A34",
+        "A27"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-5515",
+      "status": "releasedForTest",
+      "applications": [
+        "A34",
+        "A30",
+        "A33"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-8348",
+      "status": "releasedForTest",
+      "applications": [
+        "A02"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-8091",
+      "status": "releasedForTest",
+      "applications": [
+        "A17",
+        "A13"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-5695",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A01",
+        "A20"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-5736",
+      "status": "releasedForTest",
+      "applications": [
+        "A12",
+        "A08",
+        "A01"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-7308",
+      "status": "inDevelopment",
+      "applications": [
+        "A11",
+        "A15",
+        "A10"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-3126",
+      "status": "releasedForTest",
+      "applications": [
+        "A34",
+        "A36"
+      ],
+      "muTargetLow": 0.38,
+      "muTargetHigh": 0.48
+    },
+    {
+      "code": "FM-3198",
+      "status": "releasedForTest",
+      "applications": [
+        "A12"
+      ],
+      "muTargetLow": 0.44,
+      "muTargetHigh": 0.54
+    },
+    {
+      "code": "FM-1471",
+      "status": "releasedForTest",
+      "applications": [
+        "A11"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-3270",
+      "status": "inDevelopment",
+      "applications": [
+        "A09",
+        "A14"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-9418",
+      "status": "releasedForTest",
+      "applications": [
+        "A02",
+        "A04"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-1487",
+      "status": "inDevelopment",
+      "applications": [
+        "A10",
+        "A12",
+        "A07"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-6109",
+      "status": "releasedForTest",
+      "applications": [
+        "A28"
+      ],
+      "muTargetLow": 0.46,
+      "muTargetHigh": 0.56
+    },
+    {
+      "code": "FM-7519",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A10",
+        "A17"
+      ],
+      "muTargetLow": 0.46,
+      "muTargetHigh": 0.56
+    },
+    {
+      "code": "FM-8480",
+      "status": "releasedForTest",
+      "applications": [
+        "A14",
+        "A20",
+        "A02"
+      ],
+      "muTargetLow": 0.4,
+      "muTargetHigh": 0.5
+    },
+    {
+      "code": "FM-5983",
+      "status": "releasedForTest",
+      "applications": [
+        "A28",
+        "A29",
+        "A35"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-8476",
+      "status": "inDevelopment",
+      "applications": [
+        "A33"
+      ],
+      "muTargetLow": 0.43,
+      "muTargetHigh": 0.53
+    },
+    {
+      "code": "FM-5289",
+      "status": "releasedForTest",
+      "applications": [
+        "A20",
+        "A02"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    },
+    {
+      "code": "FM-6954",
+      "status": "releasedForTest",
+      "applications": [
+        "A16",
+        "A12",
+        "A20"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-4101",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A02",
+        "A07"
+      ],
+      "muTargetLow": 0.37,
+      "muTargetHigh": 0.47
+    },
+    {
+      "code": "FM-6154",
+      "status": "releasedForTest",
+      "applications": [
+        "A19",
+        "A14"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-2573",
+      "status": "releasedForTest",
+      "applications": [
+        "A13",
+        "A04"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-2494",
+      "status": "releasedForTest",
+      "applications": [
+        "A15",
+        "A20",
+        "A17"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-6966",
+      "status": "releasedForTest",
+      "applications": [
+        "A07",
+        "A04",
+        "A15"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-2181",
+      "status": "inDevelopment",
+      "applications": [
+        "A07"
+      ],
+      "muTargetLow": 0.36,
+      "muTargetHigh": 0.46
+    },
+    {
+      "code": "FM-2980",
+      "status": "releasedForTest",
+      "applications": [
+        "A36"
+      ],
+      "muTargetLow": 0.42,
+      "muTargetHigh": 0.52
+    },
+    {
+      "code": "FM-1415",
+      "status": "releasedForTest",
+      "applications": [
+        "A19",
+        "A09"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-9840",
+      "status": "releasedForTest",
+      "applications": [
+        "A19",
+        "A15",
+        "A14"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-9116",
+      "status": "inDevelopment",
+      "applications": [
+        "A07",
+        "A17"
+      ],
+      "muTargetLow": 0.41,
+      "muTargetHigh": 0.51
+    },
+    {
+      "code": "FM-8484",
+      "status": "releasedForTest",
+      "applications": [
+        "A14",
+        "A15",
+        "A02"
+      ],
+      "muTargetLow": 0.45,
+      "muTargetHigh": 0.55
+    },
+    {
+      "code": "FM-7073",
+      "status": "releasedForTest",
+      "applications": [
+        "A30",
+        "A32",
+        "A27"
+      ],
+      "muTargetLow": 0.39,
+      "muTargetHigh": 0.49
+    }
+  ],
+  "procedures": [
+    {
+      "id": "AKM",
+      "name": "Friction effectiveness (AK Master style)",
+      "bench": "passengerCar",
+      "vehicleClass": "passengerCar",
+      "hours": 14,
+      "minSamples": 1,
+      "aliases": [
+        "AK Master",
+        "AK-Master",
+        "AKM",
+        "Wirksamkeit",
+        "effectiveness"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 32,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-1",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 40,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 120,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 160,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-2",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-1",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        },
+        {
+          "name": "recovery",
+          "stops": 18,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-3",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-2",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    },
+    {
+      "id": "AKM-OEMB",
+      "name": "Friction effectiveness, OEM-B variant",
+      "bench": "passengerCar",
+      "vehicleClass": "passengerCar",
+      "hours": 15,
+      "minSamples": 1,
+      "customerVariantOf": "AKM",
+      "customer": "OEM-B",
+      "aliases": [],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 40,
+          "pressureBar": 35,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-1",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 30,
+          "speedKmh": 40,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 30,
+          "speedKmh": 120,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 30,
+          "speedKmh": 160,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-2",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-1",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        },
+        {
+          "name": "recovery",
+          "stops": 18,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-3",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-2",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        }
+      ]
+    },
+    {
+      "id": "AKM-CV",
+      "name": "Friction effectiveness, commercial vehicles",
+      "bench": "commercialVehicle",
+      "vehicleClass": "commercialVehicle",
+      "hours": 18,
+      "minSamples": 1,
+      "aliases": [
+        "AK Master",
+        "AK-Master",
+        "AKM",
+        "Wirksamkeit",
+        "effectiveness"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 48,
+          "pressureBar": 50,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-1",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 60,
+          "speedKmh": 40,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 60,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 60,
+          "speedKmh": 120,
+          "initialTempC": 100
+        },
+        {
+          "name": "speed",
+          "stops": 6,
+          "pressureBar": 60,
+          "speedKmh": 160,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-2",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-1",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        },
+        {
+          "name": "recovery",
+          "stops": 18,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-3",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-2",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    },
+    {
+      "id": "R90",
+      "name": "ECE R90 comparison",
+      "bench": "passengerCar",
+      "vehicleClass": "passengerCar",
+      "hours": 8,
+      "minSamples": 2,
+      "aliases": [
+        "R90",
+        "R 90",
+        "ECE R90"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 32,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-1",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-1",
+          "stops": 10,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-2",
+          "stops": 6,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    },
+    {
+      "id": "FADE",
+      "name": "Short fade",
+      "bench": "passengerCar",
+      "vehicleClass": "passengerCar",
+      "hours": 5,
+      "minSamples": 1,
+      "aliases": [
+        "fade test",
+        "Fadingtest",
+        "Fading-Test"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 16,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-1",
+          "stops": 3,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "fade-1",
+          "stops": 15,
+          "pressureBar": 60,
+          "speedKmh": 100,
+          "initialTempC": 100
+        },
+        {
+          "name": "characteristic-2",
+          "stops": 3,
+          "pressureBar": 40,
+          "speedKmh": 80,
+          "initialTempC": 100
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    },
+    {
+      "id": "NVH",
+      "name": "Brake noise matrix (SAE J2521 style)",
+      "bench": "nvh",
+      "vehicleClass": "passengerCar",
+      "hours": 22,
+      "minSamples": 1,
+      "aliases": [
+        "NVH",
+        "noise",
+        "Geräusch",
+        "J2521"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 30,
+          "pressureBar": 30,
+          "speedKmh": 50,
+          "initialTempC": 80
+        },
+        {
+          "name": "noise",
+          "stops": 40,
+          "pressureBar": 5,
+          "speedKmh": 10,
+          "initialTempC": 50
+        },
+        {
+          "name": "noise",
+          "stops": 40,
+          "pressureBar": 15,
+          "speedKmh": 10,
+          "initialTempC": 150
+        },
+        {
+          "name": "noise",
+          "stops": 40,
+          "pressureBar": 25,
+          "speedKmh": 10,
+          "initialTempC": 250
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    },
+    {
+      "id": "WEAR",
+      "name": "Wear at temperature steps",
+      "bench": "passengerCar",
+      "vehicleClass": "passengerCar",
+      "hours": 36,
+      "minSamples": 1,
+      "aliases": [
+        "wear test",
+        "Verschleiß"
+      ],
+      "sections": [
+        {
+          "name": "burnish",
+          "stops": 16,
+          "pressureBar": 30,
+          "speedKmh": 80,
+          "initialTempC": 100
+        },
+        {
+          "name": "wear-100",
+          "stops": 100,
+          "pressureBar": 30,
+          "speedKmh": 60,
+          "initialTempC": 100
+        },
+        {
+          "name": "wear-200",
+          "stops": 100,
+          "pressureBar": 30,
+          "speedKmh": 60,
+          "initialTempC": 200
+        },
+        {
+          "name": "wear-300",
+          "stops": 100,
+          "pressureBar": 30,
+          "speedKmh": 60,
+          "initialTempC": 300
+        }
+      ],
+      "customerVariantOf": null,
+      "customer": null
+    }
+  ]
+}

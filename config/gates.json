@@ -1,0 +1,14 @@
+{
+  "_doc": "Release gates on the platform design. Set before the held-out run; checked on dev and held-out seeds.",
+  "gates": [
+    {"id": "lead-time", "metric": "leadTimeMedianDays", "maxShareOfStatusQuo": 0.5, "label": "Median days from request to released result, against today"},
+    {"id": "homologation", "metric": "homologationMissRate", "max": 0.05, "label": "Homologation deadlines missed"},
+    {"id": "wrong-results", "metric": "wrongResultsPer1000", "maxShareOfStatusQuo": 0.35, "label": "Wrong results released per 1,000, against today"},
+    {"id": "wrong-orders", "metric": "wrongOrdersPer1000", "max": 5, "label": "Orders that are not what the engineer asked for, per 1,000"},
+    {"id": "verdict-errors", "metric": "verdictErrorsPer1000", "max": 5, "label": "Pass/fail verdicts that differ from the true behaviour, per 1,000"},
+    {"id": "clarifications", "metric": "clarificationShare", "max": 0.25, "label": "Requests sent back to the engineer with a question"},
+    {"id": "lost-bench-hours", "metric": "lostBenchHoursPerWeek", "maxShareOfStatusQuo": 0.5, "label": "Bench hours lost to faulty or wrong runs per week, against today"},
+    {"id": "false-stops", "metric": "falseStopsPer1000Runs", "max": 20, "label": "Healthy runs stopped by the monitor, per 1,000 runs"},
+    {"id": "cost", "metric": "modelCostPer1000Eur", "max": 25, "label": "Model cost per 1,000 requests, €"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_doc": "Each design is a way of running the lab. Every design meets the same requests, runs, faults and model behaviour.",
+  "designs": [
+    {"id": "status-quo", "label": "Today: coordinator enters requests, first come first served, results reviewed after the run, legacy evaluation", "kind": "status-quo",
+     "intake": "manual", "policy": "fifo", "monitor": [], "engine": "legacy"},
+    {"id": "model-alone", "label": "A language model turns requests into orders with no checks; everything else as today", "kind": "model-alone",
+     "intake": "model", "policy": "fifo", "monitor": [], "engine": "legacy"},
+    {"id": "platform", "label": "Platform: intake agent with code checks, slack-aware planner, live run monitor, new evaluator", "kind": "platform",
+     "intake": "agent", "policy": "slack-aware", "monitor": ["procedure", "temperature", "cooling", "muJump", "characteristic"], "engine": "new"},
+    {"id": "manual-intake", "label": "Platform with requests entered by the coordinator", "kind": "ablation", "base": "platform", "intake": "manual"},
+    {"id": "no-intake-checks", "label": "Platform with the model's drafts taken without code checks", "kind": "ablation", "base": "platform", "intake": "model"},
+    {"id": "fifo-planner", "label": "Platform with first come, first served bench planning", "kind": "ablation", "base": "platform", "policy": "fifo"},
+    {"id": "review-only", "label": "Platform without the live run monitor (review after the run)", "kind": "ablation", "base": "platform", "monitor": []},
+    {"id": "no-cooling-check", "label": "Platform monitor without the cooling-time check", "kind": "ablation", "base": "platform",
+     "monitor": ["procedure", "temperature", "muJump", "characteristic"]},
+    {"id": "no-characteristic-check", "label": "Platform monitor without the characteristic-section check", "kind": "ablation", "base": "platform",
+     "monitor": ["procedure", "temperature", "cooling", "muJump"]},
+    {"id": "legacy-evaluator", "label": "Platform still evaluating with the legacy calculation", "kind": "ablation", "base": "platform", "engine": "legacy"}
+  ]
+}

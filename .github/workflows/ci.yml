@@ -1,0 +1,85 @@
+name: ci
+on:
+  push:
+  pull_request:
+
+jobs:
+  dotnet:
+    runs-on: ubuntu-latest
+    services:
+      mssql:
+        image: mcr.microsoft.com/mssql/server:2022-latest
+        env:
+          ACCEPT_EULA: "Y"
+          MSSQL_SA_PASSWORD: "Rdo_ci_Passw0rd!"
+        ports: ["1433:1433"]
+        options: >-
+          --health-cmd "/opt/mssql-tools18/bin/sqlcmd -C -S localhost -U sa -P 'Rdo_ci_Passw0rd!' -Q 'SELECT 1' || exit 1"
+          --health-interval 10s --health-timeout 5s --health-retries 15
+    env:
+      RDO_TEST_SQLSERVER: "Server=localhost,1433;User Id=sa;Password=Rdo_ci_Passw0rd!;TrustServerCertificate=True;Encrypt=False"
+      DOTNET_NOLOGO: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "8.0.x" }
+      - run: dotnet build Rdo.sln -c Release
+      - run: dotnet test Rdo.sln -c Release --no-build --logger "console;verbosity=normal"
+
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.13", cache: pip }
+      - run: pip install -e "analytics[dev]"
+      - run: ruff check analytics
+      - run: mypy analytics/src
+      - run: pytest -q analytics
+
+  lab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: "8.0.x" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.13", cache: pip }
+      - run: dotnet build src/Rdo.Cli -c Release
+      - run: pip install -e "analytics[dev]"
+      - name: Dev gates pass
+        run: dynolab lab gate
+      - name: Held-out was run once and is locked
+        run: |
+          test -f reports/heldout.lock
+          set +e; dynolab lab heldout; code=$?; set -e
+          test "$code" = 3
+      - name: Generated files are up to date
+        run: dynolab lab report && git diff --exit-code README.md REPORT.md web/public/data/study.json
+      - name: The study reproduces through the C# core
+        run: dynolab lab dev --check
+
+  web:
+    runs-on: ubuntu-latest
+    defaults: { run: { working-directory: web } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm, cache-dependency-path: web/package-lock.json }
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run build
+
+  containers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -f src/Rdo.Api/Dockerfile -t rdo-api .
+      - run: docker build -f analytics/Dockerfile -t rdo-analytics .
+      - name: The API container starts with demo data and answers
+        run: |
+          docker run -d --name api -p 8080:8080 -e RDO_DEMO_SEED=20 rdo-api
+          for i in $(seq 1 30); do curl -sf localhost:8080/health && break; sleep 2; done
+          curl -sf localhost:8080/health | grep '"ok":true'
+          curl -sf localhost:8080/api/orders -H 'X-Api-Key: lab-key' | grep -q '"id"'
