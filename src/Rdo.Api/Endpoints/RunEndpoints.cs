@@ -15,6 +15,8 @@ public sealed record StopBatch(IReadOnlyList<StopReading> Stops);
 
 public sealed record ClearCheck(string Check, string Note);
 
+public sealed record ReplayRun(string ProcedureId, IReadOnlyList<StopReading> Stops);
+
 public static class RunEndpoints
 {
     public static void Map(RouteGroupBuilder api)
@@ -161,6 +163,18 @@ public static class RunEndpoints
             runs.Active.TryRemove(orderId, out _);
             await store.AppendAuditAsync(new AuditEntry(DateTimeOffset.UtcNow, ctx.Caller().Name, "run.completed", orderId, report.Pass ? "pass" : string.Join("; ", report.Reasons)), ct).ConfigureAwait(false);
             return Results.Ok(ResultView(result));
+        });
+
+        // Replays a recorded run through the monitor (for review and for the console), without a bench.
+        api.MapPost("/monitor/replay", async (ReplayRun body, MasterData master, RunMonitorClient monitor, CancellationToken ct) =>
+        {
+            if (!master.Procedures.TryGetValue(body.ProcedureId, out var proc))
+            {
+                return Results.Problem($"Unknown procedure {body.ProcedureId}.", statusCode: StatusCodes.Status400BadRequest);
+            }
+
+            var verdict = await monitor.CheckAsync(proc, body.Stops, [], ct).ConfigureAwait(false);
+            return Results.Ok(new { verdict, procedure = proc });
         });
 
         api.MapGet("/runs/active", (RunRegistry runs) => runs.Active.Values.Select(r => new { r.OrderId, r.BenchId, stops = r.Stops.Count, r.Stopped }));

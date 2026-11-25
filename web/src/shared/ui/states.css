@@ -1,0 +1,8 @@
+.state { display: grid; gap: var(--space-2); padding: var(--space-5); border: var(--line); border-radius: var(--radius); color: var(--ink-2); font-size: var(--size-2); background: var(--sheet); }
+.state-title { color: var(--ink); font-weight: 650; font-size: var(--size-3); }
+.state-note { font-size: var(--size-1); color: var(--ink-3); }
+.state-error { border-color: var(--stop); background: var(--stop-soft); }
+.state-empty { border-style: dashed; }
+.state .btn { justify-self: start; }
+.skeleton { display: block; height: 12px; border-radius: 2px; background: linear-gradient(90deg, var(--sheet-2) 25%, var(--grid) 50%, var(--sheet-2) 75%); background-size: 200% 100%; animation: shimmer 1.2s linear infinite; }
+@keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }

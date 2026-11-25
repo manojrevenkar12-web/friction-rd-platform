@@ -138,7 +138,7 @@ public sealed class IntakeValidator(MasterData master, IntakeSettings settings)
         if (draft.Samples.Value is not null)
         {
             var stated = Backed(text, draft.Samples) ? RequestText.Samples(draft.Samples.Evidence!) : null;
-            if (stated is null || stated.ToString() != draft.Samples.Value)
+            if (stated is null || stated.Value.ToString(System.Globalization.CultureInfo.InvariantCulture) != draft.Samples.Value)
             {
                 problems.Add($"sample count {draft.Samples.Value} is not what the request says");
             }

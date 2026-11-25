@@ -5,7 +5,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <AnalysisLevel>latest-recommended</AnalysisLevel>
-    <InvariantGlobalization>true</InvariantGlobalization>
     <LangVersion>12</LangVersion>
   </PropertyGroup>
 </Project>

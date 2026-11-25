@@ -80,6 +80,7 @@ def write_demo(seed: int = 4242) -> None:
         if len(samples) == 6:
             break
     rep.write_json(out / "sample-runs.json", samples)
+    rep.write_json(ROOT / "web" / "public" / "data" / "sample-runs.json", samples)
     print(f"wrote {out}: {len(reqs)} requests, sample runs {sorted(samples)}")
 
 

@@ -1,0 +1,29 @@
+.monitor { display: grid; gap: var(--space-5); }
+.monitor-head { display: grid; gap: var(--space-4); }
+.monitor-head h1 { font-size: var(--size-5); letter-spacing: -0.01em; }
+.lede { color: var(--ink-2); max-width: 70ch; margin-top: var(--space-2); }
+.run-picker { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.run-picker button { border: var(--line); background: var(--sheet); border-radius: 999px; padding: 6px var(--space-3); font-size: var(--size-1); cursor: pointer; }
+.run-picker button[aria-checked="true"] { background: var(--ink); color: var(--sheet); border-color: var(--ink); }
+.run-card { display: grid; gap: var(--space-3); border: var(--line); border-radius: var(--radius); padding: var(--space-4); background: var(--sheet); }
+.run-meta { color: var(--ink-2); font-size: var(--size-1); }
+.verdict { padding: var(--space-3) var(--space-4); border-radius: var(--radius); font-size: var(--size-2); }
+.verdict.ok { background: var(--ok-soft); }
+.verdict.stopped { background: var(--stop-soft); }
+.verdict.stopped strong { color: var(--stop); }
+.verdict.ok strong { color: var(--ok); }
+.saved { margin-left: var(--space-2); font-weight: 600; white-space: nowrap; }
+.truth { font-size: var(--size-1); color: var(--ink-3); }
+.run-chart { margin: 0; }
+.run-chart svg { width: 100%; height: auto; display: block; }
+.run-chart figcaption { font-size: var(--size-1); color: var(--ink-2); min-height: 1.5em; }
+.run-chart .grid { stroke: var(--grid); }
+.run-chart .tick, .run-chart .axis, .run-chart .section-label { fill: var(--ink-3); font-size: 11px; font-family: var(--font-data); }
+.run-chart .fade-band { fill: var(--heat-soft); }
+.run-chart .dot { fill: var(--data); }
+.run-chart .dot.burnish { fill: var(--ink-3); }
+.run-chart .dot.fade { fill: var(--heat); }
+.run-chart .cool { stroke: var(--ink-3); stroke-width: 2; }
+.run-chart .stop-line { stroke: var(--stop); stroke-width: 2; }
+.run-chart .stop-label { fill: var(--stop); font-size: 12px; font-weight: 600; font-family: var(--font-data); }
+.run-chart .cursor { stroke: var(--ink); stroke-dasharray: 2 3; pointer-events: none; }

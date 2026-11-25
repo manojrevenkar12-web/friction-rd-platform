@@ -1,0 +1,25 @@
+.study { display: grid; gap: var(--space-6); max-width: 1100px; }
+.study h1 { font-size: var(--size-5); max-width: 24ch; letter-spacing: -0.01em; }
+.study h2 { font-size: var(--size-4); margin-bottom: var(--space-2); }
+.lead-bars { display: grid; gap: var(--space-3); margin-top: var(--space-5); }
+.lead-row { display: grid; grid-template-columns: 150px minmax(0, 1fr) 110px; gap: var(--space-3); align-items: center; }
+.lead-track { height: 22px; }
+.lead-bar { display: block; height: 100%; background: var(--ink-3); border-radius: 0 4px 4px 0; }
+.is-platform .lead-bar { background: var(--data); }
+.is-platform .lead-name, .is-platform .lead-value { color: var(--data); font-weight: 650; }
+.lead-value { font-size: var(--size-4); text-align: right; }
+.table-wrap { overflow-x: auto; }
+.designs { border-collapse: collapse; width: 100%; font-size: var(--size-2); }
+.designs th, .designs td { padding: var(--space-2) var(--space-3); border-bottom: var(--line); text-align: right; white-space: nowrap; }
+.designs thead th { font-weight: 600; font-size: var(--size-1); color: var(--ink-2); border-bottom: 2px solid var(--ink); white-space: normal; vertical-align: bottom; }
+.designs th[scope="row"], .designs thead th:first-child { text-align: left; font-weight: 500; }
+.designs td { font-family: var(--font-data); }
+.designs tr.is-platform { background: var(--data-soft); }
+.designs tr.is-platform th { font-weight: 650; }
+.gate-cols { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-5); align-items: start; }
+.gates ul { list-style: none; padding: 0; margin: 0; border-top: var(--line); }
+.gates li { display: grid; grid-template-columns: 22px 1fr auto; gap: var(--space-2); padding: var(--space-2) 0; border-bottom: var(--line); font-size: var(--size-2); align-items: baseline; }
+.gates li.pass > span:first-child { color: var(--ok); font-weight: 700; }
+.gates li.fail > span:first-child, .gates li.fail .tabular { color: var(--stop); font-weight: 700; }
+.gates small { color: var(--ink-3); }
+@media (max-width: 860px) { .gate-cols { grid-template-columns: minmax(0, 1fr); } .lead-row { grid-template-columns: 100px minmax(0, 1fr) 80px; } }

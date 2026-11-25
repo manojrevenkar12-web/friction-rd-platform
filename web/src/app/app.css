@@ -1,0 +1,7 @@
+.masthead { display: flex; align-items: center; justify-content: space-between; gap: var(--space-4); flex-wrap: wrap; padding: 0 var(--space-5); border-bottom: 2px solid var(--ink); background: var(--sheet); position: sticky; top: 0; z-index: 2; }
+.mark { font-weight: 700; font-size: var(--size-3); padding: var(--space-3) 0; }
+.mark span { font-weight: 400; color: var(--ink-3); }
+.masthead nav { display: flex; gap: var(--space-1); flex-wrap: wrap; }
+.masthead nav button { border: 0; background: none; padding: var(--space-3) var(--space-3); cursor: pointer; color: var(--ink-2); font-weight: 500; border-bottom: 3px solid transparent; margin-bottom: -2px; }
+.masthead nav button[aria-current="page"] { color: var(--ink); border-bottom-color: var(--heat); }
+.page { padding: var(--space-5); max-width: 1320px; margin: 0 auto; }
