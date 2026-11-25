@@ -14,7 +14,7 @@ stop, where µ is lowest.
   legacy one is compared on every run; `Parity` reports rounding, differences and changed verdicts.
 
 ## Consequences
-- In the lab, the legacy calculation releases about 28 wrong pass/fail verdicts per 1,000 results
+- In the lab, the legacy calculation releases about 26 wrong pass/fail verdicts per 1,000 results
   and the new one about 2.5 (from measurement noise near the limits).
 - Switching to `new` changes some historical verdicts. Those runs are listed by the shadow report
   for the lab lead to review before the switch.
